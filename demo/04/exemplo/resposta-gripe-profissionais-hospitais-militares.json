@@ -1,0 +1,55 @@
+{
+  "titulo": "Vacina da gripe gratuita para profissionais dos hospitais militares?",
+  "subtitulo": "Segundo as normas da DGS carregadas a 23/11/2026",
+  "aviso_topo": "Informação sobre normas, não aconselhamento clínico. Confirme sempre a versão em vigor no site da DGS.",
+  "alertas": [
+    {
+      "nivel": "ok",
+      "texto": "Sim, com condições: a Norma 006/2026 em vigor (atualizada a 08/10/2026) inclui os profissionais da Defesa Nacional na prestação direta de cuidados."
+    },
+    {
+      "nivel": "aviso",
+      "texto": "A versão original de 17/09/2026 (revogada) não incluía a Defesa Nacional. Quem consultou essa versão pode ter ficado com a ideia contrária."
+    }
+  ],
+  "seccoes": [
+    {
+      "titulo": "Resposta",
+      "texto": "Sim, desde a atualização de 08/10/2026. A Norma 006/2026 torna elegíveis para vacinação gratuita os profissionais **na prestação direta de cuidados** em estabelecimentos **da Defesa Nacional** habilitados para internamento, cirurgia de ambulatório, obstetrícia e neonatologia, diálise ou atendimento permanente. A norma não fala em \"hospitais militares\" por esse nome, e não abrange profissionais da Defesa Nacional que não prestem cuidados diretos."
+    },
+    {
+      "titulo": "Onde está escrito",
+      "tabela": {
+        "colunas": ["Norma", "Versão", "Página", "Citação"],
+        "linhas": [
+          ["Norma n.º 006/2026", "atualizada a 08/10/2026 (em vigor)", "3", "«Profissionais na prestação direta de cuidados que exerçam funções em estabelecimentos do setor privado, social e da Defesa Nacional»"],
+          ["Norma n.º 006/2026", "atualizada a 08/10/2026 (em vigor)", "3", "«unidades com internamento, unidades de cirurgia de ambulatório, unidades de obstetrícia e neonatologia e unidades de diálise, assim como estabelecimentos com atendimento permanente»"],
+          ["Norma n.º 006/2026", "atualizada a 08/10/2026 (em vigor)", "1", "«Atualização do ponto 4. d. ii. e do Quadro 1, referente à vacinação dos profissionais de saúde que exerçam funções em estabelecimentos dos setores privado, social e da Defesa Nacional.»"],
+          ["Norma n.º 006/2026", "atualizada a 08/10/2026 (em vigor)", "9", "«Os estabelecimentos referidos no ponto 4.d.II que sejam pontos de vacinação devem articular com a ULS da área geográfica onde se localizam o fornecimento das vacinas destinadas aos seus profissionais.»"]
+        ]
+      }
+    },
+    {
+      "titulo": "O que mudou",
+      "texto": "Na versão original (17/09/2026, **revogada**), o ponto 4.d.ii dizia só «estabelecimentos do setor privado e social» (página 3), sem a Defesa Nacional. A atualização de 08/10/2026 acrescentou a Defesa Nacional ao ponto 4.d.ii e ao Quadro 1."
+    },
+    {
+      "titulo": "O que as normas não dizem",
+      "lista": [
+        "Não nomeiam \"hospitais militares\": a elegibilidade depende de o estabelecimento da Defesa Nacional ter uma das tipologias listadas. Confirmar com a saúde ocupacional ou o próprio hospital.",
+        "Não dizem como se vacinam profissionais da Defesa Nacional cujo estabelecimento não é ponto de vacinação (a norma só refere a articulação com a ULS para os que o são).",
+        "Não abrangem, por este critério, militares ou civis da Defesa Nacional que não prestem cuidados diretos; podem ser elegíveis por outro critério (idade, patologia de risco), a avaliar caso a caso por um profissional de saúde."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Norma n.º 006/2026 de 17/09/2026, atualizada a 08/10/2026 — Campanha de vacinação sazonal contra a Gripe 2026-2027 (em vigor)",
+      "url": "https://www.dgs.pt/normas-orientacoes-e-informacoes/normas-e-circulares-normativas/norma-n-0062026-de-17092026-atualizada-a-08102026-campanha-de-vacinacao-sazonal-contra-a-gripe-outono-inverno-2026-2027-pdf.aspx"
+    },
+    {
+      "nome": "Norma n.º 006/2026 de 17/09/2026, versão original (revogada — só para o que mudou)",
+      "url": "https://www.dgs.pt/normas-orientacoes-e-informacoes/normas-e-circulares-normativas/norma-n-0062026-de-17092026-campanha-de-vacinacao-sazonal-contra-a-gripe-outono-inverno-2026-2027-pdf.aspx"
+    }
+  ]
+}

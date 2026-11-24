@@ -1,0 +1,521 @@
+{
+  "total_ult": {
+    "valor": 499692,
+    "script": "saida/relatorio/analise/01_totais.py",
+    "descricao": "Atendimentos em urgência, 2026-08, todo o país (mensal, cores + sem triagem)"
+  },
+  "total_homologo": {
+    "valor": 486598,
+    "script": "saida/relatorio/analise/01_totais.py",
+    "descricao": "Atendimentos em urgência, 2025-08, todo o país"
+  },
+  "var_total_pct": {
+    "valor": 2.7,
+    "script": "saida/relatorio/analise/01_totais.py",
+    "descricao": "Variação % 2026-08 vs 2025-08"
+  },
+  "dif_total": {
+    "valor": 13094,
+    "script": "saida/relatorio/analise/01_totais.py",
+    "descricao": "Diferença absoluta 2026-08 − 2025-08"
+  },
+  "acum_ult": {
+    "valor": 3774156,
+    "script": "saida/relatorio/analise/01_totais.py",
+    "descricao": "Atendimentos acumulados jan–2026-08"
+  },
+  "acum_homologo": {
+    "valor": 3832776,
+    "script": "saida/relatorio/analise/01_totais.py",
+    "descricao": "Atendimentos acumulados jan–2025-08"
+  },
+  "var_acum_pct": {
+    "valor": -1.5,
+    "script": "saida/relatorio/analise/01_totais.py",
+    "descricao": "Variação % acumulado jan–ago, 2026 vs 2025"
+  },
+  "media_dia_ult": {
+    "valor": 16119,
+    "script": "saida/relatorio/analise/01_totais.py",
+    "descricao": "Média diária de atendimentos em 2026-08 (31 dias)"
+  },
+  "n_instituicoes": {
+    "valor": 40,
+    "script": "saida/relatorio/analise/01_totais.py",
+    "descricao": "Instituições com dados em 2026-08"
+  },
+  "serie_13m": {
+    "valor": [
+      486598,
+      460368,
+      505915,
+      453884,
+      499454,
+      445607,
+      409041,
+      487296,
+      472201,
+      489217,
+      469769,
+      501333,
+      499692
+    ],
+    "script": "saida/relatorio/analise/01_totais.py",
+    "descricao": "Série mensal de 13 meses (lista, para o gráfico)"
+  },
+  "n_vermelha_ult": {
+    "valor": 1894,
+    "script": "saida/relatorio/analise/02_cores.py",
+    "descricao": "Atendimentos pulseira vermelha, 2026-08"
+  },
+  "pct_vermelha_ult": {
+    "valor": 0.4,
+    "script": "saida/relatorio/analise/02_cores.py",
+    "descricao": "% pulseira vermelha no total, 2026-08"
+  },
+  "n_laranja_ult": {
+    "valor": 51962,
+    "script": "saida/relatorio/analise/02_cores.py",
+    "descricao": "Atendimentos pulseira laranja, 2026-08"
+  },
+  "pct_laranja_ult": {
+    "valor": 10.4,
+    "script": "saida/relatorio/analise/02_cores.py",
+    "descricao": "% pulseira laranja no total, 2026-08"
+  },
+  "n_amarela_ult": {
+    "valor": 266189,
+    "script": "saida/relatorio/analise/02_cores.py",
+    "descricao": "Atendimentos pulseira amarela, 2026-08"
+  },
+  "pct_amarela_ult": {
+    "valor": 53.3,
+    "script": "saida/relatorio/analise/02_cores.py",
+    "descricao": "% pulseira amarela no total, 2026-08"
+  },
+  "n_verde_ult": {
+    "valor": 146555,
+    "script": "saida/relatorio/analise/02_cores.py",
+    "descricao": "Atendimentos pulseira verde, 2026-08"
+  },
+  "pct_verde_ult": {
+    "valor": 29.3,
+    "script": "saida/relatorio/analise/02_cores.py",
+    "descricao": "% pulseira verde no total, 2026-08"
+  },
+  "n_azul_ult": {
+    "valor": 7143,
+    "script": "saida/relatorio/analise/02_cores.py",
+    "descricao": "Atendimentos pulseira azul, 2026-08"
+  },
+  "pct_azul_ult": {
+    "valor": 1.4,
+    "script": "saida/relatorio/analise/02_cores.py",
+    "descricao": "% pulseira azul no total, 2026-08"
+  },
+  "n_branca_ult": {
+    "valor": 11305,
+    "script": "saida/relatorio/analise/02_cores.py",
+    "descricao": "Atendimentos pulseira branca, 2026-08"
+  },
+  "pct_branca_ult": {
+    "valor": 2.3,
+    "script": "saida/relatorio/analise/02_cores.py",
+    "descricao": "% pulseira branca no total, 2026-08"
+  },
+  "n_sem_triagem_ult": {
+    "valor": 14644,
+    "script": "saida/relatorio/analise/02_cores.py",
+    "descricao": "Atendimentos pulseira sem_triagem, 2026-08"
+  },
+  "pct_sem_triagem_ult": {
+    "valor": 2.9,
+    "script": "saida/relatorio/analise/02_cores.py",
+    "descricao": "% pulseira sem_triagem no total, 2026-08"
+  },
+  "n_nao_urgentes_ult": {
+    "valor": 165003,
+    "script": "saida/relatorio/analise/02_cores.py",
+    "descricao": "Verdes+azuis+brancas, 2026-08"
+  },
+  "pct_nao_urgentes_ult": {
+    "valor": 33.0,
+    "script": "saida/relatorio/analise/02_cores.py",
+    "descricao": "% verdes+azuis+brancas, 2026-08"
+  },
+  "pct_vermelha_laranja_ult": {
+    "valor": 10.8,
+    "script": "saida/relatorio/analise/02_cores.py",
+    "descricao": "% vermelhas+laranjas, 2026-08"
+  },
+  "n_vermelha_hom": {
+    "valor": 1734,
+    "script": "saida/relatorio/analise/02_cores.py",
+    "descricao": "Atendimentos pulseira vermelha, 2025-08"
+  },
+  "pct_vermelha_hom": {
+    "valor": 0.4,
+    "script": "saida/relatorio/analise/02_cores.py",
+    "descricao": "% pulseira vermelha no total, 2025-08"
+  },
+  "n_laranja_hom": {
+    "valor": 50113,
+    "script": "saida/relatorio/analise/02_cores.py",
+    "descricao": "Atendimentos pulseira laranja, 2025-08"
+  },
+  "pct_laranja_hom": {
+    "valor": 10.3,
+    "script": "saida/relatorio/analise/02_cores.py",
+    "descricao": "% pulseira laranja no total, 2025-08"
+  },
+  "n_amarela_hom": {
+    "valor": 254618,
+    "script": "saida/relatorio/analise/02_cores.py",
+    "descricao": "Atendimentos pulseira amarela, 2025-08"
+  },
+  "pct_amarela_hom": {
+    "valor": 52.3,
+    "script": "saida/relatorio/analise/02_cores.py",
+    "descricao": "% pulseira amarela no total, 2025-08"
+  },
+  "n_verde_hom": {
+    "valor": 142649,
+    "script": "saida/relatorio/analise/02_cores.py",
+    "descricao": "Atendimentos pulseira verde, 2025-08"
+  },
+  "pct_verde_hom": {
+    "valor": 29.3,
+    "script": "saida/relatorio/analise/02_cores.py",
+    "descricao": "% pulseira verde no total, 2025-08"
+  },
+  "n_azul_hom": {
+    "valor": 6578,
+    "script": "saida/relatorio/analise/02_cores.py",
+    "descricao": "Atendimentos pulseira azul, 2025-08"
+  },
+  "pct_azul_hom": {
+    "valor": 1.4,
+    "script": "saida/relatorio/analise/02_cores.py",
+    "descricao": "% pulseira azul no total, 2025-08"
+  },
+  "n_branca_hom": {
+    "valor": 13295,
+    "script": "saida/relatorio/analise/02_cores.py",
+    "descricao": "Atendimentos pulseira branca, 2025-08"
+  },
+  "pct_branca_hom": {
+    "valor": 2.7,
+    "script": "saida/relatorio/analise/02_cores.py",
+    "descricao": "% pulseira branca no total, 2025-08"
+  },
+  "n_sem_triagem_hom": {
+    "valor": 17611,
+    "script": "saida/relatorio/analise/02_cores.py",
+    "descricao": "Atendimentos pulseira sem_triagem, 2025-08"
+  },
+  "pct_sem_triagem_hom": {
+    "valor": 3.6,
+    "script": "saida/relatorio/analise/02_cores.py",
+    "descricao": "% pulseira sem_triagem no total, 2025-08"
+  },
+  "n_nao_urgentes_hom": {
+    "valor": 162522,
+    "script": "saida/relatorio/analise/02_cores.py",
+    "descricao": "Verdes+azuis+brancas, 2025-08"
+  },
+  "pct_nao_urgentes_hom": {
+    "valor": 33.4,
+    "script": "saida/relatorio/analise/02_cores.py",
+    "descricao": "% verdes+azuis+brancas, 2025-08"
+  },
+  "pct_vermelha_laranja_hom": {
+    "valor": 10.7,
+    "script": "saida/relatorio/analise/02_cores.py",
+    "descricao": "% vermelhas+laranjas, 2025-08"
+  },
+  "pp_nao_urgentes": {
+    "valor": -0.4,
+    "script": "saida/relatorio/analise/02_cores.py",
+    "descricao": "Diferença em pontos percentuais da % não urgente, 2026-08 vs 2025-08"
+  },
+  "var_vermelha_pct": {
+    "valor": 9.2,
+    "script": "saida/relatorio/analise/02_cores.py",
+    "descricao": "Variação % pulseira vermelha, 2026-08 vs 2025-08"
+  },
+  "var_laranja_pct": {
+    "valor": 3.7,
+    "script": "saida/relatorio/analise/02_cores.py",
+    "descricao": "Variação % pulseira laranja, 2026-08 vs 2025-08"
+  },
+  "var_amarela_pct": {
+    "valor": 4.5,
+    "script": "saida/relatorio/analise/02_cores.py",
+    "descricao": "Variação % pulseira amarela, 2026-08 vs 2025-08"
+  },
+  "var_verde_pct": {
+    "valor": 2.7,
+    "script": "saida/relatorio/analise/02_cores.py",
+    "descricao": "Variação % pulseira verde, 2026-08 vs 2025-08"
+  },
+  "var_azul_pct": {
+    "valor": 8.6,
+    "script": "saida/relatorio/analise/02_cores.py",
+    "descricao": "Variação % pulseira azul, 2026-08 vs 2025-08"
+  },
+  "var_branca_pct": {
+    "valor": -15.0,
+    "script": "saida/relatorio/analise/02_cores.py",
+    "descricao": "Variação % pulseira branca, 2026-08 vs 2025-08"
+  },
+  "var_sem_triagem_pct": {
+    "valor": -16.8,
+    "script": "saida/relatorio/analise/02_cores.py",
+    "descricao": "Variação % pulseira sem_triagem, 2026-08 vs 2025-08"
+  },
+  "reg_norte_ult": {
+    "valor": 179802,
+    "script": "saida/relatorio/analise/03_regioes.py",
+    "descricao": "Atendimentos Norte, 2026-08"
+  },
+  "reg_norte_hom": {
+    "valor": 179080,
+    "script": "saida/relatorio/analise/03_regioes.py",
+    "descricao": "Atendimentos Norte, 2025-08"
+  },
+  "reg_norte_var": {
+    "valor": 0.4,
+    "script": "saida/relatorio/analise/03_regioes.py",
+    "descricao": "Variação % Norte, 2026-08 vs 2025-08"
+  },
+  "reg_norte_peso": {
+    "valor": 36.0,
+    "script": "saida/relatorio/analise/03_regioes.py",
+    "descricao": "Peso % de Norte no total nacional, 2026-08"
+  },
+  "reg_lisboa_e_vale_do_tejo_ult": {
+    "valor": 156770,
+    "script": "saida/relatorio/analise/03_regioes.py",
+    "descricao": "Atendimentos Lisboa e Vale do Tejo, 2026-08"
+  },
+  "reg_lisboa_e_vale_do_tejo_hom": {
+    "valor": 148432,
+    "script": "saida/relatorio/analise/03_regioes.py",
+    "descricao": "Atendimentos Lisboa e Vale do Tejo, 2025-08"
+  },
+  "reg_lisboa_e_vale_do_tejo_var": {
+    "valor": 5.6,
+    "script": "saida/relatorio/analise/03_regioes.py",
+    "descricao": "Variação % Lisboa e Vale do Tejo, 2026-08 vs 2025-08"
+  },
+  "reg_lisboa_e_vale_do_tejo_peso": {
+    "valor": 31.4,
+    "script": "saida/relatorio/analise/03_regioes.py",
+    "descricao": "Peso % de Lisboa e Vale do Tejo no total nacional, 2026-08"
+  },
+  "reg_centro_ult": {
+    "valor": 91308,
+    "script": "saida/relatorio/analise/03_regioes.py",
+    "descricao": "Atendimentos Centro, 2026-08"
+  },
+  "reg_centro_hom": {
+    "valor": 88374,
+    "script": "saida/relatorio/analise/03_regioes.py",
+    "descricao": "Atendimentos Centro, 2025-08"
+  },
+  "reg_centro_var": {
+    "valor": 3.3,
+    "script": "saida/relatorio/analise/03_regioes.py",
+    "descricao": "Variação % Centro, 2026-08 vs 2025-08"
+  },
+  "reg_centro_peso": {
+    "valor": 18.3,
+    "script": "saida/relatorio/analise/03_regioes.py",
+    "descricao": "Peso % de Centro no total nacional, 2026-08"
+  },
+  "reg_algarve_ult": {
+    "valor": 36436,
+    "script": "saida/relatorio/analise/03_regioes.py",
+    "descricao": "Atendimentos Algarve, 2026-08"
+  },
+  "reg_algarve_hom": {
+    "valor": 37085,
+    "script": "saida/relatorio/analise/03_regioes.py",
+    "descricao": "Atendimentos Algarve, 2025-08"
+  },
+  "reg_algarve_var": {
+    "valor": -1.8,
+    "script": "saida/relatorio/analise/03_regioes.py",
+    "descricao": "Variação % Algarve, 2026-08 vs 2025-08"
+  },
+  "reg_algarve_peso": {
+    "valor": 7.3,
+    "script": "saida/relatorio/analise/03_regioes.py",
+    "descricao": "Peso % de Algarve no total nacional, 2026-08"
+  },
+  "reg_alentejo_ult": {
+    "valor": 35376,
+    "script": "saida/relatorio/analise/03_regioes.py",
+    "descricao": "Atendimentos Alentejo, 2026-08"
+  },
+  "reg_alentejo_hom": {
+    "valor": 33627,
+    "script": "saida/relatorio/analise/03_regioes.py",
+    "descricao": "Atendimentos Alentejo, 2025-08"
+  },
+  "reg_alentejo_var": {
+    "valor": 5.2,
+    "script": "saida/relatorio/analise/03_regioes.py",
+    "descricao": "Variação % Alentejo, 2026-08 vs 2025-08"
+  },
+  "reg_alentejo_peso": {
+    "valor": 7.1,
+    "script": "saida/relatorio/analise/03_regioes.py",
+    "descricao": "Peso % de Alentejo no total nacional, 2026-08"
+  },
+  "tipo_geral_ult": {
+    "valor": 398752,
+    "script": "saida/relatorio/analise/04_tipos.py",
+    "descricao": "Atendimentos urgência geral, 2026-08 (dataset por tipo)"
+  },
+  "tipo_geral_pct_ult": {
+    "valor": 79.8,
+    "script": "saida/relatorio/analise/04_tipos.py",
+    "descricao": "% urgência geral na soma dos tipos, 2026-08"
+  },
+  "tipo_pediatrica_ult": {
+    "valor": 71602,
+    "script": "saida/relatorio/analise/04_tipos.py",
+    "descricao": "Atendimentos urgência pediatrica, 2026-08 (dataset por tipo)"
+  },
+  "tipo_pediatrica_pct_ult": {
+    "valor": 14.3,
+    "script": "saida/relatorio/analise/04_tipos.py",
+    "descricao": "% urgência pediatrica na soma dos tipos, 2026-08"
+  },
+  "tipo_obstetrica_ult": {
+    "valor": 28627,
+    "script": "saida/relatorio/analise/04_tipos.py",
+    "descricao": "Atendimentos urgência obstetrica, 2026-08 (dataset por tipo)"
+  },
+  "tipo_obstetrica_pct_ult": {
+    "valor": 5.7,
+    "script": "saida/relatorio/analise/04_tipos.py",
+    "descricao": "% urgência obstetrica na soma dos tipos, 2026-08"
+  },
+  "tipo_psiquiatrica_ult": {
+    "valor": 1003,
+    "script": "saida/relatorio/analise/04_tipos.py",
+    "descricao": "Atendimentos urgência psiquiatrica, 2026-08 (dataset por tipo)"
+  },
+  "tipo_psiquiatrica_pct_ult": {
+    "valor": 0.2,
+    "script": "saida/relatorio/analise/04_tipos.py",
+    "descricao": "% urgência psiquiatrica na soma dos tipos, 2026-08"
+  },
+  "tipo_geral_hom": {
+    "valor": 404796,
+    "script": "saida/relatorio/analise/04_tipos.py",
+    "descricao": "Atendimentos urgência geral, 2025-08 (dataset por tipo)"
+  },
+  "tipo_geral_pct_hom": {
+    "valor": 80.3,
+    "script": "saida/relatorio/analise/04_tipos.py",
+    "descricao": "% urgência geral na soma dos tipos, 2025-08"
+  },
+  "tipo_pediatrica_hom": {
+    "valor": 68788,
+    "script": "saida/relatorio/analise/04_tipos.py",
+    "descricao": "Atendimentos urgência pediatrica, 2025-08 (dataset por tipo)"
+  },
+  "tipo_pediatrica_pct_hom": {
+    "valor": 13.7,
+    "script": "saida/relatorio/analise/04_tipos.py",
+    "descricao": "% urgência pediatrica na soma dos tipos, 2025-08"
+  },
+  "tipo_obstetrica_hom": {
+    "valor": 29535,
+    "script": "saida/relatorio/analise/04_tipos.py",
+    "descricao": "Atendimentos urgência obstetrica, 2025-08 (dataset por tipo)"
+  },
+  "tipo_obstetrica_pct_hom": {
+    "valor": 5.9,
+    "script": "saida/relatorio/analise/04_tipos.py",
+    "descricao": "% urgência obstetrica na soma dos tipos, 2025-08"
+  },
+  "tipo_psiquiatrica_hom": {
+    "valor": 721,
+    "script": "saida/relatorio/analise/04_tipos.py",
+    "descricao": "Atendimentos urgência psiquiatrica, 2025-08 (dataset por tipo)"
+  },
+  "tipo_psiquiatrica_pct_hom": {
+    "valor": 0.1,
+    "script": "saida/relatorio/analise/04_tipos.py",
+    "descricao": "% urgência psiquiatrica na soma dos tipos, 2025-08"
+  },
+  "tipo_geral_var": {
+    "valor": -1.5,
+    "script": "saida/relatorio/analise/04_tipos.py",
+    "descricao": "Variação % urgência geral, 2026-08 vs 2025-08"
+  },
+  "tipo_pediatrica_var": {
+    "valor": 4.1,
+    "script": "saida/relatorio/analise/04_tipos.py",
+    "descricao": "Variação % urgência pediatrica, 2026-08 vs 2025-08"
+  },
+  "tipo_obstetrica_var": {
+    "valor": -3.1,
+    "script": "saida/relatorio/analise/04_tipos.py",
+    "descricao": "Variação % urgência obstetrica, 2026-08 vs 2025-08"
+  },
+  "tipo_psiquiatrica_var": {
+    "valor": 39.1,
+    "script": "saida/relatorio/analise/04_tipos.py",
+    "descricao": "Variação % urgência psiquiatrica, 2026-08 vs 2025-08"
+  },
+  "n_negativos_periodo": {
+    "valor": 0,
+    "script": "saida/relatorio/analise/05_controlo.py",
+    "descricao": "Meses-instituição com valor mensal negativo nos meses comparados"
+  },
+  "tipo_soma_ult": {
+    "valor": 499984,
+    "script": "saida/relatorio/analise/05_controlo.py",
+    "descricao": "Soma dos quatro tipos de urgência, 2026-08 (dataset por tipo)"
+  },
+  "tipo_soma_hom": {
+    "valor": 503840,
+    "script": "saida/relatorio/analise/05_controlo.py",
+    "descricao": "Soma dos quatro tipos de urgência, 2025-08 (dataset por tipo)"
+  },
+  "tipo_soma_var": {
+    "valor": -0.8,
+    "script": "saida/relatorio/analise/05_controlo.py",
+    "descricao": "Variação % da soma por tipo, 2026-08 vs 2025-08"
+  },
+  "queda_acum_pct": {
+    "valor": 1.5,
+    "script": "saida/relatorio/analise/01_totais.py",
+    "descricao": "Valor absoluto da variação % do acumulado (para escrever 'desce X %')"
+  },
+  "reg_algarve_queda": {
+    "valor": 1.8,
+    "script": "saida/relatorio/analise/03_regioes.py",
+    "descricao": "Descida % de Algarve (valor absoluto), 2026-08 vs 2025-08"
+  },
+  "tipo_soma_queda": {
+    "valor": 0.8,
+    "script": "saida/relatorio/analise/05_controlo.py",
+    "descricao": "Valor absoluto da variação % da soma por tipo"
+  },
+  "dif_fontes_hom": {
+    "valor": 17242,
+    "script": "saida/relatorio/analise/05_controlo.py",
+    "descricao": "Diferença entre a soma por tipo e o total de Manchester, 2025-08"
+  },
+  "n_meses_serie": {
+    "valor": 13,
+    "script": "saida/relatorio/analise/01_totais.py",
+    "descricao": "Número de meses na série do gráfico"
+  }
+}

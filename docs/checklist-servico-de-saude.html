@@ -1,0 +1,55 @@
+<!DOCTYPE html><html lang="pt"><head><meta charset="utf-8"><title>Checklist — agentes de IA num serviço de saúde</title>
+<style>@page{size:A4;margin:15mm 16mm 16mm}body{font:10pt/1.42 Arial,Helvetica,sans-serif;color:#111;max-width:780px;margin:auto}
+h1{font-size:19pt;margin:0 0 6px}h2{font-size:12pt;margin:13px 0 3px;color:#1D4FCB;break-after:avoid}
+ul{margin:3px 0 5px 18px;padding:0}li{margin:2px 0}code{font-family:Menlo,monospace;font-size:8.8pt;background:#F2F2F2;padding:0 3px}
+i{color:#444}p{margin:4px 0}footer{margin-top:14px;font-size:8.5pt;color:#666;border-top:1px solid #ddd;padding-top:6px}</style></head><body>
+<h1>Checklist — antes de pôr um agente num serviço de saúde</h1>
+<p>As sete perguntas da sessão, cada uma ligada ao caso em que se viu porque importa. Não substitui o encarregado de proteção de dados nem a equipa de segurança: serve para chegar à conversa com eles com o trabalho de casa feito.</p>
+<h2>1. Dados mínimos</h2>
+<ul>
+<li>O agente precisa mesmo de dados pessoais? E de dados de saúde (categoria especial, art. 9.º do RGPD)?</li>
+<li>Se sim, quais, exatamente, e onde ficam depois?</li>
+<li>Há uma ferramenta que mascara antes de escrever, ou só uma regra no manual?</li>
+</ul>
+<p><i>Visto no caso 2:</i> a regra &quot;não copies números de utente&quot; funciona quase sempre. O <code>mascarar.py --verificar</code> é o que garante.</p>
+<h2>2. Humano no ciclo</h2>
+<ul>
+<li>Em que momento uma pessoa revê o trabalho, <b>antes</b> de alguma coisa sair?</li>
+<li>Que casos passam sempre a humano (conteúdo clínico, pedidos legais, segurança, dúvida)?</li>
+<li>A decisão final, se tiver efeitos sobre pessoas, é de uma pessoa? (art. 22.º do RGPD)</li>
+</ul>
+<p><i>Visto no caso 5:</i> &quot;adjudica à melhor&quot; tem de esbarrar numa permissão e numa regra.</p>
+<h2>3. Permissões mínimas</h2>
+<ul>
+<li>O que pode fazer sozinho (<code>allow</code>), o que pergunta (<code>ask</code>), o que nunca (<code>deny</code>)?</li>
+<li>As regras estão escritas de forma a não deixar atalhos?</li>
+</ul>
+<p><i>Visto no caso 3:</i> uma regra mal escrita levou o agente a criar um <code>__main__.py</code> para caber nela. Esforçado, e não era isso que se queria.</p>
+<h2>4. Registo</h2>
+<ul>
+<li>Conseguimos reconstituir o que fez, com que dados e porquê, daqui a seis meses?</li>
+<li>O registo é escrito por um mecanismo que o agente não controla (um <i>hook</i>)?</li>
+</ul>
+<h2>5. Entradas hostis</h2>
+<ul>
+<li>O que acontece quando um email, PDF, página ou proposta traz instruções escondidas?</li>
+<li>O que o agente lê é tratado como informação, nunca como ordens? E ele avisa?</li>
+</ul>
+<p><i>Visto nos casos 2 e 5:</i> texto branco num email, comentário HTML numa proposta.</p>
+<h2>6. Avaliação</h2>
+<ul>
+<li>Há um conjunto de casos de teste (incluindo maliciosos e absurdos) que se corre sempre que muda o modelo, o manual ou as ferramentas?</li>
+<li>Há verificadores automáticos do resultado, como o <code>verificar.py</code> do caso 3?</li>
+</ul>
+<h2>7. Onde corre</h2>
+<ul>
+<li>Que modelo, de que fornecedor, em que região, com que contrato?</li>
+<li>Os dados enviados ao modelo são retidos? Usados para treino?</li>
+<li>Há alternativa (modelo alojado na UE, ou em infraestrutura própria) para os casos mais sensíveis?</li>
+</ul>
+<h2>Enquadramento (confirmar sempre à data)</h2>
+<ul>
+<li><b>RGPD:</b> dados de saúde são categoria especial (art. 9.º); decisões exclusivamente automatizadas com efeitos significativos (art. 22.º).</li>
+<li><b>AI Act:</b> sistemas de triagem de doentes em urgência e de avaliação do acesso a serviços de saúde estão no Anexo III (alto risco). Com o Omnibus Digital (Reg. (UE) 2026/1744), as obrigações do Anexo III aplicam-se a partir de 2/12/2027 e as do Anexo I (ex.: dispositivos médicos) a partir de 2/8/2028. As obrigações de transparência do art. 50.º aplicam-se desde 2/8/2026, com transição até 2/12/2026 para alguns sistemas já no mercado.</li>
+</ul>
+<footer>NOVA IMS · Agentes de IA na saúde · material de apoio à sessão. Não é aconselhamento jurídico. Confirmar o enquadramento legal à data.</footer></body></html>

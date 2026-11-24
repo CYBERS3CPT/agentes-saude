@@ -1,0 +1,65 @@
+{
+ "id": "atendimentos-em-urgencia-triagem-manchester",
+ "titulo": "Atendimentos em Urgência Hospitalar por Triagem de Manchester",
+ "atualizado_pelo_sns": "2026-11-02",
+ "registos": 6500,
+ "url": "https://transparencia.sns.gov.pt/explore/dataset/atendimentos-em-urgencia-triagem-manchester/",
+ "campos": [
+  {
+   "nome": "tempo",
+   "tipo": "date",
+   "descricao": "Período"
+  },
+  {
+   "nome": "regiao",
+   "tipo": "text",
+   "descricao": "Região"
+  },
+  {
+   "nome": "instituicao",
+   "tipo": "text",
+   "descricao": "Instituição"
+  },
+  {
+   "nome": "localizacao_geografica",
+   "tipo": "geo_point_2d",
+   "descricao": "Localização Geográfica"
+  },
+  {
+   "nome": "no_de_atendimentos_em_urgencia_su_triagem_manchester_vermelha",
+   "tipo": "int",
+   "descricao": "Nº Atendimentos em Urgência SU Triagem Manchester -Vermelha"
+  },
+  {
+   "nome": "no_de_atendimentos_em_urgencia_su_triagem_manchester_laranja",
+   "tipo": "int",
+   "descricao": "Nº Atendimentos em Urgência SU Triagem Manchester -Laranja"
+  },
+  {
+   "nome": "no_de_atendimentos_em_urgencia_su_triagem_manchester_amarela",
+   "tipo": "int",
+   "descricao": "Nº Atendimentos em Urgência SU Triagem Manchester -Amarela"
+  },
+  {
+   "nome": "no_de_atendimentos_em_urgencia_su_triagem_manchester_verde",
+   "tipo": "int",
+   "descricao": "Nº Atendimentos em Urgência SU Triagem Manchester -Verde"
+  },
+  {
+   "nome": "no_de_atendimentos_em_urgencia_su_triagem_manchester_azul",
+   "tipo": "int",
+   "descricao": "Nº Atendimentos em Urgência SU Triagem Manchester -Azul"
+  },
+  {
+   "nome": "no_de_atendimentos_em_urgencia_su_triagem_manchester_branca",
+   "tipo": "int",
+   "descricao": "Nº Atendimentos em Urgência SU Triagem Manchester -Branca"
+  },
+  {
+   "nome": "no_de_atendimentos_em_sem_triagem_manchester",
+   "tipo": "int",
+   "descricao": "Nº Atendimentos s\\ Triagem Manchester"
+  }
+ ],
+ "descarregado_em": "2026-11-23 21:44"
+}

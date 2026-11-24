@@ -1,0 +1,30 @@
+{
+ "id": "atividade-operacional-do-sns-24",
+ "titulo": "Atividade operacional mensal do SNS 24",
+ "atualizado_pelo_sns": "2026-05-26",
+ "registos": 8590,
+ "url": "https://transparencia.sns.gov.pt/explore/dataset/atividade-operacional-do-sns-24/",
+ "campos": [
+  {
+   "nome": "periodo",
+   "tipo": "date",
+   "descricao": "﻿Período"
+  },
+  {
+   "nome": "indicador",
+   "tipo": "text",
+   "descricao": "Indicador"
+  },
+  {
+   "nome": "valor",
+   "tipo": "double",
+   "descricao": "Valor"
+  },
+  {
+   "nome": "ordem",
+   "tipo": "int",
+   "descricao": "Ordem"
+  }
+ ],
+ "descarregado_em": "2026-11-23 21:44"
+}

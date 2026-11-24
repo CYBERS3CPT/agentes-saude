@@ -1,0 +1,60 @@
+{
+ "id": "atendimentos-por-tipo-de-urgencia-hospitalar-link",
+ "titulo": "Atendimentos por Tipo de Urgência Hospitalar",
+ "atualizado_pelo_sns": "2026-11-02",
+ "registos": 6561,
+ "url": "https://transparencia.sns.gov.pt/explore/dataset/atendimentos-por-tipo-de-urgencia-hospitalar-link/",
+ "campos": [
+  {
+   "nome": "tempo",
+   "tipo": "date",
+   "descricao": "Período"
+  },
+  {
+   "nome": "periodoformat2",
+   "tipo": "text",
+   "descricao": "Período.Format.2"
+  },
+  {
+   "nome": "regiao",
+   "tipo": "text",
+   "descricao": "Região"
+  },
+  {
+   "nome": "instituicao",
+   "tipo": "text",
+   "descricao": "Instituição"
+  },
+  {
+   "nome": "localizacao_geografica",
+   "tipo": "geo_point_2d",
+   "descricao": "Localização Geográfica"
+  },
+  {
+   "nome": "urgencias_geral",
+   "tipo": "int",
+   "descricao": "Urgências Geral"
+  },
+  {
+   "nome": "urgencias_pediatricas",
+   "tipo": "int",
+   "descricao": "Urgências Pediátricas"
+  },
+  {
+   "nome": "urgencia_obstetricia",
+   "tipo": "int",
+   "descricao": "Urgência Obstetricia"
+  },
+  {
+   "nome": "urgencia_psiquiatrica",
+   "tipo": "int",
+   "descricao": "Urgência Psiquiátrica"
+  },
+  {
+   "nome": "total_urgencias",
+   "tipo": "int",
+   "descricao": "Total Urgências"
+  }
+ ],
+ "descarregado_em": "2026-11-23 21:44"
+}

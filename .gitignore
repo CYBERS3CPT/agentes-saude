@@ -1,0 +1,14 @@
+# o que o assistente produz (o diário inclui)
+assistente/saida/**/*
+!assistente/saida/*/
+!assistente/saida/**/.gitkeep
+
+# coisas do sistema e do editor
+.DS_Store
+__pycache__/
+node_modules/
+.claude/settings.local.json
+assistente/.claude/settings.local.json
+
+# material do formador (fica fora do repositório)
+palestra/manual-formador.*

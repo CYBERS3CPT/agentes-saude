@@ -1,0 +1,82 @@
+{
+  "titulo": "Onde vou hoje? — Odivelas",
+  "subtitulo": "Criança de 3 anos, febre desde ontem",
+  "aviso_topo": "Informação pública, não substitui a avaliação de um profissional. Em emergência ligue 112.",
+  "alertas": [
+    {
+      "nivel": "info",
+      "texto": "Antes de sair de casa, ligue SNS 24: 808 24 24 24. Faz a triagem por telefone e diz se e para onde deve ir."
+    },
+    {
+      "nivel": "info",
+      "texto": "Se surgir dificuldade em respirar, convulsões ou perda de consciência, ligue 112."
+    },
+    {
+      "nivel": "aviso",
+      "texto": "Hospital de Santa Maria (página de tempos do SNS, lida às 23h16 de 23/11/2026): «Os dados desta ULS estão temporariamente indisponíveis devido à realização de procedimentos de manutenção no sistema informático.» Os zeros que a página mostra não são tempos reais."
+    },
+    {
+      "nivel": "aviso",
+      "texto": "ULS Loures / Odivelas (Hospital Beatriz Ângelo): a página de tempos do SNS, lida às 23h15, só mostrava os separadores Consulta e Cirurgia. Não havia dados de urgência para ler."
+    },
+    {
+      "nivel": "aviso",
+      "texto": "A urgência pediátrica do Santa Maria aparece no site como «Aberta / Novo Modelo Projeto Piloto». Este modelo pode mudar a forma de acesso. Confirme com o SNS 24 antes de ir."
+    },
+    {
+      "nivel": "info",
+      "texto": "As distâncias são em linha reta, não por estrada. O Hospital Beatriz Ângelo e o Hospital Prof. Doutor Fernando Fonseca publicam tempos dentro das respetivas ULS (Loures/Odivelas e Amadora/Sintra)."
+    }
+  ],
+  "seccoes": [
+    {
+      "titulo": "O que fazer agora",
+      "texto": "Ligue primeiro para o **SNS 24 (808 24 24 24)**. A triagem é feita por telefone e encaminha a criança para o sítio certo, que pode ser o centro de saúde, uma consulta ou a urgência. Se for encaminhada para urgência pediátrica, a mais próxima é a do **Hospital Beatriz Ângelo, em Loures** (3,3 km em linha reta). A seguinte é a do **Hospital de Santa Maria, em Lisboa** (5,1 km). Neste momento o site do SNS não mostra tempos de espera para nenhuma das duas, por isso não sabemos qual tem menos gente."
+    },
+    {
+      "titulo": "Agora, segundo o SNS",
+      "tabela": {
+        "colunas": ["Unidade", "Estado", "Utentes à espera", "Tempo médio", "Lido às"],
+        "linhas": [
+          ["H. Beatriz Ângelo - Loures", "não consegui ler (sem dados de urgência na página)", "não consegui ler", "não consegui ler", "23h15, 23/11/2026"],
+          ["H. Santa Maria - Lisboa (Pediátrica)", "Aberta / Novo Modelo Projeto Piloto, 00:00–24:00", "indisponível (manutenção)", "indisponível (manutenção)", "23h16, 23/11/2026"]
+        ]
+      }
+    },
+    {
+      "titulo": "Urgências mais próximas",
+      "tabela": {
+        "colunas": ["Unidade", "Tipo", "Distância", "Acesso", "Telefone"],
+        "linhas": [
+          ["H. Beatriz Ângelo - Loures", "Médico-cirúrgica (0–17 anos)", "3,3 km", "Iniciativa própria, SNS 24, centro de saúde", "219 847 200"],
+          ["H. Santa Maria - Lisboa", "Polivalente com Centro de Trauma (0–17 anos)", "5,1 km", "Iniciativa própria, SNS 24, centro de saúde", "217 805 000"],
+          ["H. Prof. Doutor Fernando Fonseca - Amadora", "Médico-cirúrgica (0–17 anos)", "7,4 km", "Iniciativa própria, SNS 24, centro de saúde", "214 348 200"]
+        ]
+      }
+    },
+    {
+      "titulo": "O que não sei",
+      "lista": [
+        "Quantas pessoas estão à espera agora em qualquer das duas urgências: o site do SNS não tinha estes dados à hora da leitura.",
+        "Se a urgência pediátrica do Beatriz Ângelo está aberta neste momento: a página não o dizia. Confirmar com o SNS 24.",
+        "O que muda no acesso com o «Novo Modelo Projeto Piloto» do Santa Maria.",
+        "Tempos de viagem por estrada: as distâncias são em linha reta.",
+        "Os dados abertos de caracterização das urgências foram atualizados pelo SNS a 17/06/2026 e podem ter mudado desde então."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Portal da Transparência SNS — Caracterização das valências de urgência (dataset atualizado a 2026-06-17; cópia local de 23/11/2026)",
+      "url": "https://transparencia.sns.gov.pt/explore/dataset/caracterizacao-das-valencias-de-urgencia/"
+    },
+    {
+      "nome": "Tempos Médios de Espera — ULS Loures / Odivelas (lido às 23h15 de 23/11/2026)",
+      "url": "https://tempos.min-saude.pt/instituicao/123"
+    },
+    {
+      "nome": "Tempos Médios de Espera — Hospital de Santa Maria (lido às 23h16 de 23/11/2026)",
+      "url": "https://tempos.min-saude.pt/instituicao/237"
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "titulo": "Urgências do SNS — agosto 2026",
+  "subtitulo": "Último mês com dados: agosto de 2026 · Dados atualizados pelo SNS a 2 de novembro de 2026 · Comparação com agosto de 2025",
+  "alertas": [
+    {
+      "nivel": "info",
+      "texto": "Os dados do portal são acumulados desde janeiro; os valores mensais foram obtidos por diferença entre meses. Agosto de 2026 tem dados das 40 instituições, tal como agosto de 2025."
+    }
+  ],
+  "seccoes": [
+    {
+      "titulo": "Em resumo",
+      "lista": [
+        "Em agosto de 2026 houve 499 692 atendimentos nas urgências do SNS, 2,7 % mais do que em agosto de 2025 (486 598); no acumulado de janeiro a agosto, o ano está 1,5 % abaixo de 2025.",
+        "Um em cada três atendimentos (33,0 %) teve pulseira verde, azul ou branca, praticamente o mesmo que um ano antes (33,4 %); vermelhas e laranjas foram 10,8 %.",
+        "Lisboa e Vale do Tejo (+5,6 %) e o Alentejo (+5,2 %) foram as regiões que mais subiram; o Algarve foi a única a descer (1,8 % a menos) e o Norte ficou estável (+0,4 %)."
+      ]
+    },
+    {
+      "titulo": "Atendimentos por mês, últimos 13 meses",
+      "grafico": {
+        "tipo": "barras",
+        "rotulos": [
+          "ago 25",
+          "set 25",
+          "out 25",
+          "nov 25",
+          "dez 25",
+          "jan 26",
+          "fev 26",
+          "mar 26",
+          "abr 26",
+          "mai 26",
+          "jun 26",
+          "jul 26",
+          "ago 26"
+        ],
+        "series": [
+          {
+            "nome": "Atendimentos (Triagem de Manchester)",
+            "valores": [
+              486598,
+              460368,
+              505915,
+              453884,
+              499454,
+              445607,
+              409041,
+              487296,
+              472201,
+              489217,
+              469769,
+              501333,
+              499692
+            ]
+          }
+        ],
+        "unidade": "atendimentos"
+      }
+    },
+    {
+      "titulo": "Pulseiras de triagem: agosto 2025 e agosto 2026",
+      "grafico": {
+        "tipo": "barras",
+        "rotulos": [
+          "Vermelha",
+          "Laranja",
+          "Amarela",
+          "Verde",
+          "Azul",
+          "Branca",
+          "Sem triagem"
+        ],
+        "series": [
+          {
+            "nome": "agosto 2025",
+            "valores": [
+              1734,
+              50113,
+              254618,
+              142649,
+              6578,
+              13295,
+              17611
+            ]
+          },
+          {
+            "nome": "agosto 2026",
+            "valores": [
+              1894,
+              51962,
+              266189,
+              146555,
+              7143,
+              11305,
+              14644
+            ]
+          }
+        ],
+        "unidade": "atendimentos"
+      }
+    },
+    {
+      "titulo": "Por cor de pulseira",
+      "tabela": {
+        "colunas": [
+          "Pulseira",
+          "Ago 2025",
+          "Ago 2026",
+          "Peso em ago 2026",
+          "Variação"
+        ],
+        "linhas": [
+          [
+            "Vermelha",
+            "1 734",
+            "1 894",
+            "0,4 %",
+            "+9,2 %"
+          ],
+          [
+            "Laranja",
+            "50 113",
+            "51 962",
+            "10,4 %",
+            "+3,7 %"
+          ],
+          [
+            "Amarela",
+            "254 618",
+            "266 189",
+            "53,3 %",
+            "+4,5 %"
+          ],
+          [
+            "Verde",
+            "142 649",
+            "146 555",
+            "29,3 %",
+            "+2,7 %"
+          ],
+          [
+            "Azul",
+            "6 578",
+            "7 143",
+            "1,4 %",
+            "+8,6 %"
+          ],
+          [
+            "Branca",
+            "13 295",
+            "11 305",
+            "2,3 %",
+            "−15,0 %"
+          ],
+          [
+            "Sem triagem",
+            "17 611",
+            "14 644",
+            "2,9 %",
+            "−16,8 %"
+          ],
+          [
+            "Total",
+            "486 598",
+            "499 692",
+            "100,0 %",
+            "+2,7 %"
+          ]
+        ]
+      }
+    },
+    {
+      "titulo": "Por região",
+      "tabela": {
+        "colunas": [
+          "Região",
+          "Ago 2025",
+          "Ago 2026",
+          "Variação",
+          "Peso no total"
+        ],
+        "linhas": [
+          [
+            "Norte",
+            "179 080",
+            "179 802",
+            "+0,4 %",
+            "36,0 %"
+          ],
+          [
+            "Lisboa e Vale do Tejo",
+            "148 432",
+            "156 770",
+            "+5,6 %",
+            "31,4 %"
+          ],
+          [
+            "Centro",
+            "88 374",
+            "91 308",
+            "+3,3 %",
+            "18,3 %"
+          ],
+          [
+            "Algarve",
+            "37 085",
+            "36 436",
+            "−1,8 %",
+            "7,3 %"
+          ],
+          [
+            "Alentejo",
+            "33 627",
+            "35 376",
+            "+5,2 %",
+            "7,1 %"
+          ]
+        ]
+      }
+    },
+    {
+      "titulo": "Por tipo de urgência (outra fonte)",
+      "texto": "Em agosto de 2026, 79,8 % dos atendimentos foram em urgência geral, 14,3 % em pediátrica, 5,7 % em obstétrica e 0,2 % em psiquiátrica. A pediátrica subiu 4,1 % face a agosto de 2025. Estes valores vêm do dataset por tipo de urgência, que não soma igual ao da Triagem de Manchester: servem só para a repartição, não para o total."
+    },
+    {
+      "titulo": "Hipóteses a confirmar",
+      "lista": [
+        "A subida de agosto contrasta com o acumulado do ano abaixo de 2025: ver se os primeiros meses de 2026 foram mais fracos (por exemplo, uma época de gripe mais leve) ou se agosto teve um efeito pontual.",
+        "A descida das pulseiras brancas e dos atendimentos sem triagem pode refletir mudanças de registo ou de circuitos (encaminhamentos pela linha telefónica do SNS, consultas de doença aguda), e não menos procura. Confirmar com as ULS.",
+        "As subidas em Lisboa e Vale do Tejo e no Alentejo podem estar ligadas a urgências encerradas ou com horário reduzido noutras unidades durante o verão, que desviam doentes. Confirmar com as escalas.",
+        "A descida no Algarve pode ter a ver com a afluência turística de agosto; não há dados de turismo neste relatório."
+      ]
+    },
+    {
+      "titulo": "Como foi feito",
+      "lista": [
+        "00_explorar.py — confirma que os valores são acumulados desde janeiro e conta as instituições por mês.",
+        "comum.py — converte acumulados em valores mensais (mês menos mês anterior, por instituição).",
+        "01_totais.py — total mensal (todas as pulseiras e sem triagem), série de 13 meses e acumulado de janeiro a agosto.",
+        "02_cores.py — atendimentos e percentagem por cor de pulseira, agosto 2026 e agosto 2025.",
+        "03_regioes.py — total por região e variação face a agosto de 2025.",
+        "04_tipos.py — repartição por tipo de urgência (dataset por tipo).",
+        "05_controlo.py — procura valores mensais negativos (nenhum nos meses comparados) e compara as duas fontes: em agosto de 2025 o dataset por tipo soma mais 17 242 atendimentos do que o de Manchester e, ano a ano, desce 0,8 % em vez de subir. Por isso o total vem sempre da Triagem de Manchester.",
+        "06_relatorio.py — monta este relatório a partir de numeros.json; nenhum número foi escrito à mão."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Portal da Transparência SNS — Atendimentos em Urgência Hospitalar por Triagem de Manchester (atualizado a 2026-11-02)",
+      "url": "https://transparencia.sns.gov.pt/explore/dataset/atendimentos-em-urgencia-triagem-manchester/"
+    },
+    {
+      "nome": "Portal da Transparência SNS — Atendimentos por Tipo de Urgência Hospitalar (atualizado a 2026-11-02)",
+      "url": "https://transparencia.sns.gov.pt/explore/dataset/atendimentos-por-tipo-de-urgencia-hospitalar-link/"
+    }
+  ]
+}

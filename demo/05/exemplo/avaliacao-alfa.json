@@ -1,0 +1,73 @@
+{
+  "proposta": "alfa",
+  "concorrente": "Alfa Sistemas Fictícios, Lda.",
+  "preco": 84500,
+  "requisitos": {
+    "R1": {
+      "estado": "cumpre",
+      "citacao": "aplicação web responsiva, com aplicações nativas para Android e iOS, que permite ao utente marcar, remarcar e cancelar a vacinação a qualquer hora (24/7)",
+      "justificacao": "Concretiza os canais (web e aplicações nativas Android/iOS) e a disponibilidade 24/7 (secção 1)."
+    },
+    "R2": {
+      "estado": "cumpre",
+      "citacao": "Disponibilizamos uma API HL7 FHIR R4 (recursos Immunization, Appointment, Patient) com documentação OpenAPI pública em docs.vacinalfa.exemplo/fhir.",
+      "justificacao": "Indica a norma FHIR R4, os recursos e o local da documentação da API. A integração está incluída no preço (secção 2)."
+    },
+    "R3": {
+      "estado": "nao_cumpre",
+      "citacao": "alojada no fornecedor de cloud NuvemGlobal, na região us-east-1 (Virgínia, EUA), com cópias de segurança diárias na região us-west-2 (Oregon, EUA).",
+      "justificacao": "Os dados e as cópias de segurança ficam alojados nos EUA, fora da UE/EEE, o que contraria expressamente o requisito (secção 3)."
+    },
+    "R4": {
+      "estado": "nao_cumpre",
+      "citacao": "O acordo de subcontratação será disponibilizado ao Hospital após a adjudicação, no modelo padrão da empresa.",
+      "justificacao": "O requisito exige que o acordo do art.º 28.º do RGPD seja assinado e entregue com a proposta. A proposta remete-o para depois da adjudicação (secção 3)."
+    },
+    "R5": {
+      "estado": "cumpre",
+      "citacao": "Autenticação com Chave Móvel Digital (integração com o fornecedor de autenticação do Estado) e, em alternativa, código por SMS.",
+      "justificacao": "Prevê a Chave Móvel Digital. Nota para o júri: a alternativa por código SMS isolado pode não ser considerada autenticação forte equivalente (secção 4)."
+    },
+    "R6": {
+      "estado": "cumpre",
+      "citacao": "Anexamos o relatório de avaliação de acessibilidade (Anexo 1), realizado em setembro de 2026 por entidade independente, com conformidade WCAG 2.1 AA",
+      "justificacao": "A proposta indica que o relatório está anexado (Anexo 1). O anexo não foi analisado aqui; convém confirmar que foi mesmo entregue (secção 5)."
+    },
+    "R7": {
+      "estado": "cumpre",
+      "citacao": "Disponibilidade mensal garantida de 99,5 %. Por cada 0,1 % abaixo, crédito de 5 % da mensalidade, até 30 %.",
+      "justificacao": "Garante 99,5 % mensais, o limite mínimo exigido, e define as penalizações (secção 6)."
+    },
+    "R8": {
+      "estado": "cumpre",
+      "citacao": "Lembretes automáticos por SMS (48 h antes) e email (7 dias e 24 h antes). Todas as mensagens incluem ligação para deixar de receber lembretes.",
+      "justificacao": "Prevê os dois canais, com antecedências concretas, e o opt-out em cada mensagem (secção 7)."
+    },
+    "R9": {
+      "estado": "cumpre",
+      "citacao": "45 dias após a assinatura do contrato.",
+      "justificacao": "O prazo de 45 dias fica dentro do limite de 60 dias (secção 8)."
+    },
+    "V1": {
+      "estado": "parcial",
+      "citacao": "Interface em português e inglês.",
+      "justificacao": "Demonstra português e inglês, mas não a terceira língua exigida (secção 9)."
+    },
+    "V2": {
+      "estado": "cumpre",
+      "citacao": "Lista de espera com remarcação automática: quando alguém cancela, a vaga é oferecida por SMS à primeira pessoa em espera",
+      "justificacao": "Descreve concretamente o mecanismo de lista de espera e de remarcação automática após cancelamento (secção 9)."
+    },
+    "V3": {
+      "estado": "parcial",
+      "citacao": "Relatórios diários de marcações e faltas, exportáveis em Excel, enviados por email às 8h00.",
+      "justificacao": "Propõe relatórios diários, não um painel em tempo real. Cobre marcações e faltas, mas não as doses administradas (secção 9). O júri decide se isto chega para parcial ou se não cumpre."
+    },
+    "V4": {
+      "estado": "nao_cumpre",
+      "citacao": "A Alfa não tem, de momento, certificação ISO/IEC 27001.",
+      "justificacao": "A própria proposta declara que não tem a certificação (secção 9)."
+    }
+  },
+  "alertas": []
+}

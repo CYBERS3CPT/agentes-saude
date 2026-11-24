@@ -1,0 +1,67 @@
+{
+  "titulo": "Que antibiótico dar a uma criança com amigdalite?",
+  "subtitulo": "Segundo as normas da DGS carregadas a 23/11/2026",
+  "aviso_topo": "Informação sobre normas, não aconselhamento clínico. Confirme sempre a versão em vigor no site da DGS.",
+  "alertas": [
+    {
+      "nivel": "perigo",
+      "texto": "Não encontrei nas normas carregadas."
+    },
+    {
+      "nivel": "info",
+      "texto": "A escolha de um antibiótico para uma criança concreta é uma decisão do médico que a observa. Em urgência: 112. Dúvidas: SNS 24 (808 24 24 24)."
+    }
+  ],
+  "seccoes": [
+    {
+      "titulo": "Resposta",
+      "texto": "**Não encontrei nas normas carregadas.** As quatro normas disponíveis tratam só de vacinação e imunização sazonal (gripe, COVID-19 e VSR em idade pediátrica) e nenhuma fala de amigdalite, faringite ou antibióticos. Não completo a resposta de memória: não teria norma, data nem página para confirmar."
+    },
+    {
+      "titulo": "O que procurei",
+      "tabela": {
+        "colunas": ["Pesquisa", "Resultado"],
+        "linhas": [
+          ["antibiótico amigdalite criança", "Só coincidências soltas (\"crianças\") em normas de vacinação; pontuação baixa"],
+          ["faringite amigdalina antibioterapia amoxicilina penicilina", "Nada encontrado"],
+          ["infeção garganta estreptococo tratamento", "Só coincidências soltas (\"infeção\", \"tratamento\") nas normas do VSR e da COVID-19"]
+        ]
+      }
+    },
+    {
+      "titulo": "Normas carregadas (nenhuma cobre o tema)",
+      "tabela": {
+        "colunas": ["Norma", "Versão", "Tema", "Estado"],
+        "linhas": [
+          ["006/2026", "atualizada a 08/10/2026", "Vacinação sazonal contra a gripe 2026-2027", "Em vigor"],
+          ["006/2026", "original, 17/09/2026", "Vacinação sazonal contra a gripe 2026-2027", "Revogada"],
+          ["004/2026", "original, 02/09/2026", "Imunização sazonal contra o VSR em idade pediátrica", "Em vigor"],
+          ["007/2026", "atualizada a 30/09/2026", "Vacinação contra a COVID-19", "Em vigor"]
+        ]
+      }
+    },
+    {
+      "titulo": "O que as normas não dizem",
+      "lista": [
+        "Critérios de diagnóstico de amigdalite/faringite bacteriana em idade pediátrica.",
+        "Quando está (ou não) indicado antibiótico.",
+        "Que antibiótico, dose e duração usar, e alternativas em caso de alergia.",
+        "Onde procurar: norma da DGS sobre diagnóstico e tratamento da amigdalite aguda na idade pediátrica (site da DGS, secção Normas e Circulares Normativas), o RCM do medicamento (Infomed) e o médico assistente ou pediatra."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Norma n.º 006/2026, atualizada a 08/10/2026 (consultada, não cobre o tema)",
+      "url": "https://www.dgs.pt/normas-orientacoes-e-informacoes/normas-e-circulares-normativas/norma-n-0062026-de-17092026-atualizada-a-08102026-campanha-de-vacinacao-sazonal-contra-a-gripe-outono-inverno-2026-2027-pdf.aspx"
+    },
+    {
+      "nome": "Norma n.º 004/2026 (consultada, não cobre o tema)",
+      "url": "https://www.dgs.pt/normas-orientacoes-e-informacoes/normas-e-circulares-normativas/norma-n-0042026-de-02092026-campanha-de-imunizacao-sazonal-contra-o-virus-sincicial-respiratorio-vsr-em-idade-pediatrica-outono-inverno-2026-2027-pdf.aspx"
+    },
+    {
+      "nome": "Norma n.º 007/2026, atualizada a 30/09/2026 (consultada, não cobre o tema)",
+      "url": "https://www.dgs.pt/normas-orientacoes-e-informacoes/normas-e-circulares-normativas/norma-n-0072026-de-17092026-atualizada-a-30092026-estrategia-de-vacinacao-contra-a-covid-19-vacinacao-primaria-e-campanha-de-vacinacao-sazonal-outono-inverno-2026-2027-pdf.aspx"
+    }
+  ]
+}

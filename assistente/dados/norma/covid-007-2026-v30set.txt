@@ -1,0 +1,803 @@
+=== página 1 ===
+                                                                                            Rita Sá        Digitally signed by Rita Sá Machado
+                                                                                                           DN: c=PT, title=Diretora-Geral da
+                                                                                                           Saúde, ou=Direção, o=Direção-Geral
+                                                                                                           da Saúde, sn=Sá Machado Duarte,
+
+
+                                                                                            Machado
+                                                                                                           givenName=Rita Manuel, cn=Rita Sá
+                                                                                                           Machado
+                                                                                                           Date: 2026.09.30 15:09:30 +01'00'
+
+
+
+
+     NORMA
+
+Número: 007/2026
+
+Data: 17/09/2026
+
+Atualização: 30/09/2026
+
+Assunto: Estratégia de Vacinação contra a COVID-19: Vacinação Primária e Campanha de
+Vacinação Sazonal outono-inverno 2026-2027
+
+Palavras-Chave: COVID-19; Vacinação; Vacinação primária; Vacinação sazonal outono-inverno 2026-
+2027
+
+Para: Sistema de Saúde.
+
+Contatos: vacinas@dgs.min-saude.pt
+
+Sumário da            •    Atualização do Ponto 16 referente à vacina Bimervax® XFG.
+Atualização:          •    Definição dos locais onde ocorre a vacinação primária (Ponto 20).
+                      •    Atualização do Ponto 33. Alínea b., subalínea i. referente ao código da vacina Bimervax®
+                           XFG na plataforma VACINAS.
+
+
+Nos termos da alínea a) do n.º 2 do art.º 2.º do Decreto Regulamentar n.º 14/2012, de 26 de janeiro,
+e do art.º 5 da Portaria n.º 114/2024/1, de 22 de março, a Direção-Geral da Saúde (DGS) emite a
+seguinte Norma:
+
+
+ESTRATÉGIA DE VACINAÇÃO
+1.   A estratégia de vacinação contra a COVID-19 contempla a vacinação de grupos
+     populacionais com maior risco de doença grave, hospitalização e morte, bem como a
+     proteção de profissionais e de pessoas que vivem ou trabalham em contextos de maior
+     vulnerabilidade.
+
+Finalidades
+2. A vacinação contra a COVID-19 tem como finalidades:
+
+     a.   Diminuir o risco de doença grave, hospitalização e morte associadas à infeção por SARS-
+          CoV-2, particularmente nos grupos de maior risco, com periodicidade ajustada ao risco
+          individual e ao contexto epidemiológico.
+
+     b.   Diminuir a pressão sobre os serviços de saúde, contribuindo para a sua resiliência.
+
+Período de vacinação
+3.   A vacinação contra a COVID-19 compreende os seguintes períodos:
+          a.   Vacinação primária: decorre ao longo de todo o ano, de acordo com os critérios de
+               elegibilidade previstos na presente Norma.
+                                                                                                                    1/13
+NORMA N.º 007/2026 DE 17/09/2026, atualizada a 30/09/2026
+
+
+
+
+DIREÇÃO-GERAL DA SAÚDE
+
+Alameda D. Afonso Henriques, 45      Tel.: +351 21 843 05 00
+1049-005 Lisboa                      Email: geral@dgs.min-saude.pt                                   WWW.DGS.PT
+=== página 2 ===
+           b.   Vacinação sazonal outono-inverno 2026-2027: decorre entre 30 de setembro de
+                2026 e 31 de março de 2027.1
+4.     Pode decorrer em data a definir, e em função da evolução da situação epidemiológica da
+       COVID-19 em Portugal, uma nova campanha de vacinação entre abril e junho de 2027.
+
+
+Grupos-alvo elegíveis para vacinação e esquema vacinal recomendado contra a COVID-19 para
+a época de 2026-2027
+5.     São elegíveis para vacinação contra a COVID-19 as pessoas contempladas nos Quadros 1 e 2
+       da presente Norma, de acordo com os critérios neles definidos e com o respetivo período de
+       vacinação:
+           a.   Vacinação primária – Os grupos-alvo elegíveis para vacinação contra a COVID-19 no
+                âmbito da vacinação primária são os constantes no Quadro 1;
+           b.   Vacinação sazonal de outono-inverno 2026-2027 – Os grupos-alvo elegíveis para
+                vacinação contra a COVID-19 na campanha de vacinação sazonal de outono-inverno
+                de 2026-2027 são os constantes no Quadro 2.
+
+
+VACINAÇÃO PRIMÁRIA
+Quadro 1 - Grupos-alvo elegíveis para vacinação primária contra a COVID-19
+                                      Vacinação Primária
+                                                    Grupo-alvo2,3
+                                  Pessoas submetidas a transplante de células progenitoras hematopoiéticas,
+                                  independentemente da idade
+    Critério: condições ou
+                                  Crianças com idade entre os 6 meses e os 4 anos com condições de
+    patologias de risco
+                                  imunossupressão moderada a grave,4 de acordo com o quadro específico das
+                                  condições de imunossupressão grave (Quadro 3)
+
+
+
+
+1
+ A data de encerramento do período de vacinação sazonal outono-inverno 2026-2027 poderá ser ajustada em função da
+evolução da situação epidemiológica e das orientações das autoridades de saúde.
+2
+ A título excecional, poderá ainda ser considerada elegível para vacinação primária uma pessoa com idade superior a 4
+anos, com multimorbilidade e sem evidência confirmada de infeção prévia por SARS-CoV-2, desde que, após avaliação
+clínica individualizada e mediante prescrição médica fundamentada, se considere apresentar risco muito elevado de
+desenvolvimento de COVID-19 grave, equiparável ao dos grupos elegíveis para vacinação primária, que justifique esta
+estratégia vacinal.
+3
+ Poderão ainda ser consideradas para vacinação primária, mediante avaliação clínica individualizada, crianças com
+múltiplas condições de risco. A decisão deverá considerar o risco individual de evolução para COVID-19 grave, a imunidade
+previamente adquirida e o contexto epidemiológico vigente. Sugere-se esta avaliação em crianças desta faixa etária com
+complexidade médica, designadamente na presença de duas ou mais condições preexistentes associadas a risco de
+COVID-19 grave, considerando as condições de risco específicas da população pediátrica, conforme definido no Quadro 4.
+A elegibilidade deverá ser formalizada através da emissão de declaração médica de elegibilidade na Plataforma de
+Prescrição Eletrónica de Medicamentos (PEM).
+4
+  Em indivíduos com 6 ou mais meses de idade gravemente imunocomprometidos, poderá ainda ser ponderada a
+administração de uma dose adicional, devendo a decisão assentar numa avaliação clínica individualizada, considerando o
+tipo e grau de imunossupressão, os antecedentes de infeção por SARS-CoV-2, o risco individual de evolução para doença
+grave e o contexto epidemiológico no momento.
+                                                                                                                    2/13
+NORMA N.º 007/2026 DE 17/09/2026, atualizada a 30/09/2026
+
+
+
+
+DIREÇÃO-GERAL DA SAÚDE
+
+Alameda D. Afonso Henriques, 45        Tel.: +351 21 843 05 00
+1049-005 Lisboa                        Email: geral@dgs.min-saude.pt                                     WWW.DGS.PT
+=== página 3 ===
+                                  Crianças entre os 6 meses e os 4 anos com duas ou mais condições de risco, de
+                                  acordo com o quadro específico de condições de risco na população pediátrica 5
+                                  (Quadro 4)
+
+
+6.     Quando exista indicação para administração de esquema vacinal primário contra a COVID-19,
+       a utilização de Comirnaty® XFG, de acordo com a idade e condição clínica, é a seguinte:
+                a. 2 doses de 10 µg, em crianças dos 6 aos 23 meses, sem registo documentado de
+                   infeção prévia por SARS-CoV-2;
+                b. 1 dose de 10 µg, em crianças dos 6 aos 23 meses, com registo documentado de
+                   infeção prévia por SARS-CoV-2;
+                c. 1 dose de 10 µg, em crianças dos 2 aos 11 anos;
+                d. 1 dose de 30 µg, em pessoas com 12 ou mais anos.
+7.     Nas pessoas com 6 ou mais meses de idade com imunossupressão moderada a grave (Quadro
+       3), poderá ser ponderada, no âmbito do esquema vacinal primário, a administração de uma
+       dose adicional, devendo a decisão assentar numa avaliação clínica individualizada,
+       considerando o tipo e grau de imunossupressão, os antecedentes de infeção por SARS-CoV-2,
+       o risco individual de evolução para doença grave e o contexto epidemiológico vigente.
+8.     Quando o esquema vacinal primário compreenda mais do que uma dose, o intervalo
+       recomendado entre doses é de 8 a 12 semanas.
+9.     Nas pessoas que tenham completado vacinação prévia contra a COVID-19 e nas quais exista
+       indicação para administração de uma dose adicional, deve ser respeitado um intervalo mínimo
+       de 3 meses após a dose mais recente de vacina contra a COVID-19.
+10. Após infeção por SARS-CoV-2, recomenda-se um intervalo de, pelo menos, 3 meses antes da
+    administração de uma dose adicional de vacina contra a COVID-19.
+
+
+
+VACINAÇÃO SAZONAL DE OUTONO-INVERNO 2026-2027
+
+Quadro 2 - Grupos-alvo elegíveis para vacinação contra a COVID-19 no âmbito da campanha de
+vacinação sazonal de outono-inverno 2026-2027
+
+                                  Vacinação sazonal de outono-inverno 2026-2027
+                                                          Grupo-alvo
+    Critério: idade           Pessoas com idade igual ou superior a 70 anos.6
+                              Pessoas com idade ≥6 meses com condições de imunossupressão moderada ou
+                              grave (Quadro 3).
+                              Pessoas com idade ≥18 anos com patologias de risco para COVID-19 grave (Quadro
+                              5).
+
+
+5
+ A decisão de vacinação deverá assentar numa avaliação clínica individualizada, considerando o risco de evolução para
+doença grave, a imunidade previamente adquirida e o contexto epidemiológico vigente.
+6
+  A vacinação contra a COVID-19 pode ser administrada às pessoas dos 60 aos 69 anos que a solicitem, após ponderação
+individual do benefício-risco. Para este efeito, as pessoas podem dirigir-se a uma unidade de saúde ou farmácia comunitária,
+não sendo exigidas avaliação clínica prévia pelo médico assistente nem declaração médica de elegibilidade.
+                                                                                                                       3/13
+NORMA N.º 007/2026 DE 17/09/2026, atualizada a 30/09/2026
+
+
+
+
+DIREÇÃO-GERAL DA SAÚDE
+
+Alameda D. Afonso Henriques, 45         Tel.: +351 21 843 05 00
+1049-005 Lisboa                         Email: geral@dgs.min-saude.pt                                       WWW.DGS.PT
+=== página 4 ===
+     Critério: condições      Pessoas com idade ≥18 anos com fragilidade moderada ou grave, isto é, com
+     ou patologias de         limitação funcional significativa, dependência parcial ou total nas atividades de vida
+     risco                    diária ou perda relevante de autonomia, geralmente equivalente
+                              a Clinical Frailty Scale ≥5.7
+                              Pessoas com multimorbilidade, em idade adulta ou pediátrica.8,9,10
+                              Grávidas.11,12
+                              Pessoas residentes em ERPI, RNCCI ou outras estruturas similares associadas a
+                              maior vulnerabilidade clínica individual ou coletiva.13
+     Critério: contextos
+     vulneráveis              Reclusos nos estabelecimentos prisionais.
+                              Pessoas em situação de sem-abrigo e respetivos profissionais de apoio.
+
+                              Profissionais de saúde:
+
+                              •    com fatores de risco individuais associados a maior risco de doença grave;
+
+                              •    que prestem cuidados diretos e regulares a grupos populacionais
+     Critério: contextos           particularmente vulneráveis, nomeadamente pessoas com imunossupressão
+                                   moderada ou grave, pessoas em diálise, pessoas com doença respiratória
+     ocupacionais
+                                   crónica grave ou residentes em estruturas de institucionalização.
+                              A vacinação poderá ainda ser disponibilizada aos restantes profissionais da saúde
+                              que pretendam ser vacinados, privilegiando-se, durante o período de outono-
+                              inverno, aqueles que exerçam funções em contextos de maior pressão assistencial.
+                              Profissionais dos serviços centrais e regionais do Ministério da Saúde.
+                              Profissionais da distribuição farmacêutica.
+
+
+
+
+7
+  A elegibilidade vacinal em pessoas com fragilidade moderada ou grave deverá assentar numa avaliação clínica
+individualizada realizada pelo médico assistente.
+8
+ Poderão ser consideradas elegíveis para vacinação mediante avaliação clínica individualizada pelo médico assistente,
+considerando a natureza e gravidade das condições coexistentes, a presença e o grau de fragilidade e/ou limitação
+funcional, o risco individual de evolução para COVID-19 grave, a imunidade previamente adquirida e o contexto
+epidemiológico vigente.
+9
+  Na população pediátrica (6 meses–17 anos), a avaliação deverá ter como referência as condições de risco constantes no
+Quadro 4. A multimorbilidade não constitui, isoladamente, um critério automático de elegibilidade. A elegibilidade deverá
+resultar de decisão clínica individualizada e ser formalizada pelo médico assistente através da emissão de declaração
+médica de elegibilidade na Plataforma de Prescrição Eletrónica de Medicamentos (PEM).
+10
+  Na população adulta consideram-se elegíveis pessoas com presença de duas ou mais doenças crónicas (Quadro 5),
+particularmente quando associadas a fragilidade, limitação funcional ou doença crónica moderada a grave. A elegibilidade
+deverá resultar de decisão clínica individualizada e ser formalizada pelo médico assistente através da emissão de
+declaração médica de elegibilidade na Plataforma de Prescrição Eletrónica de Medicamentos (PEM).
+11
+   Na grávida, a vacina contra a COVID-19 pode ser administrada concomitantemente ou com qualquer intervalo
+relativamente à vacina contra a gripe e à vacina contra o VSR (Abrysvo ®). Relativamente às restantes vacinas recomendadas
+durante a gravidez, deverão ser respeitadas as recomendações específicas constantes dos respetivos RCM e das normas
+nacionais aplicáveis. Não existe limite de idade materna ou gestacional para a administração da vacina contra a COVID-19.
+A amamentação não constitui uma contraindicação para a vacinação contra a COVID-19.
+12
+  As grávidas que completem o esquema vacinal primário contra a COVID-19 durante a gravidez não têm indicação para
+vacinação sazonal outono-inverno 2026/2027.
+13
+  Poderão ser consideradas instituições similares (entre outros contextos clínica e epidemiologicamente equiparáveis):
+Unidades de Internamento, Residências Autónomas e Lares Residenciais para Pessoas com Deficiência; Centros de
+Acolhimento para Pessoas em Situação de Vulnerabilidade Social; Comunidades Terapêuticas e Outras Estruturas de Apoio
+a Pessoas com Necessidades de Saúde Mental; Centros de Dia.
+
+
+
+                                                                                                                     4/13
+NORMA N.º 007/2026 DE 17/09/2026, atualizada a 30/09/2026
+
+
+
+
+DIREÇÃO-GERAL DA SAÚDE
+
+Alameda D. Afonso Henriques, 45        Tel.: +351 21 843 05 00
+1049-005 Lisboa                        Email: geral@dgs.min-saude.pt                                      WWW.DGS.PT
+=== página 5 ===
+                              Farmacêuticos que exerçam funções em farmácias comunitárias que participam na
+                              Campanha de Vacinação Sazonal.
+                              Profissionais dos estabelecimentos pertencentes a contextos de maior
+                              vulnerabilidade, nomeadamente ERPI, instituições similares, unidades da RNCCI e
+                              estabelecimentos prisionais.
+
+Legenda: ERPI – Estrutura Residencial para Pessoas Idosas; RNCCI – Rede Nacional de Cuidados Continuados Integrados.
+
+11. O esquema vacinal sazonal recomendado para a campanha de vacinação de outono-inverno
+    2026-2027 é de 1 dose de vacina Comirnaty® XFG na dosagem de:
+       a.   10 µg, às crianças dos 6 meses aos 11 anos de idade;
+       b.   30 µg. às pessoas com 12 ou mais anos de idade.
+12. Nas pessoas que já completaram esquema vacinal primário contra a COVID-19, quando exista
+    indicação para vacinação sazonal outono-inverno 2026-2027, deverá ser respeitado um
+    intervalo mínimo de 3 meses após a dose mais recente de uma vacina contra a COVID-19.
+13. Após infeção por SARS-CoV-2, recomenda-se um intervalo de, pelo menos, 3 meses antes da
+    administração de uma nova dose de vacina contra a COVID-19.
+
+
+
+Quadro 3 - Condições de imunossupressão grave
+     Patologia/Condição                               Condições de Risco (≥6 meses de idade) (*)
+
+                                  Neoplasia maligna ativa a fazer ou a aguardar o início de terapêutica
+                                  antineoplásica sistémica (citotóxicos, imunomoduladores, antihormonas ou
+                                  terapêuticas dirigidas a alvos moleculares tumorais) e/ou radioterapia, no
+      Neoplasia maligna           momento da vacinação ou prévio à vacinação, se persistência de
+                                  imunossupressão no momento de vacinação
+      ativa14
+                                  Leucemias e linfomas sob terapêutica e nos primeiros 12 meses seguintes à
+                                  cura no momento da vacinação
+                                  Doenças linfoproliferativas crónicas
+
+                                  Transplantados e candidatos a transplante de células progenitoras
+                                  hematopoiéticas (TCPH)15 (alogénico e autólogo) ou tratamento com células T-
+                                  CAR nos últimos 24 meses antes da vacinação
+                                  TCPH há mais de 24 meses no momento da vacinação, contudo a realizar
+      Transplantação
+                                  terapêutica imunossupressora ou com doença enxerto versus hospedeiro
+                                  (DEVH)
+                                  Transplantados e candidatos a transplante de órgão sólido no momento da
+                                  vacinação
+
+
+
+
+14
+   A vacinação contra a COVID-19 não deve determinar a interrupção de tratamentos oncológicos, nem o adiamento de
+tratamentos oncológicos imprescindíveis. Sempre que possível, a vacinação deve ser realizada antes do início do tratamento
+oncológico.
+15
+  As pessoas com história de transplante de células progenitoras hematopoiéticas (alogénico ou autólogo) devem ser
+vacinadas, pelo menos, 6 meses após a transplantação.
+                                                                                                                     5/13
+NORMA N.º 007/2026 DE 17/09/2026, atualizada a 30/09/2026
+
+
+
+
+DIREÇÃO-GERAL DA SAÚDE
+
+Alameda D. Afonso Henriques, 45         Tel.: +351 21 843 05 00
+1049-005 Lisboa                         Email: geral@dgs.min-saude.pt                                     WWW.DGS.PT
+=== página 6 ===
+                                  Imunossupressão grave devido a infeção por VIH (CD4+ <750 células/μL se
+                                  idade <12 meses; CD4+ <500 células/μL se idade 1-5 anos; CD4+ <200
+                                  células/μL se idade ≥6 anos), história de doença definidora de SIDA sem
+                                  reconstituição imune e/ou manifestações clínicas de infeção por VIH em fase
+                                  sintomática
+                                  Imunodeficiência combinada/celular ou hipogamaglobulinemia persistente
+                                  devido a imunodeficiência primária ou secundária18
+                                  Asplenia funcional ou anatómica
+                                  Dose elevada de corticosteroides (prednisolona ≥1 mg/Kg/dia ou ≥20 mg/dia,
+                                  ou seu equivalente por mais de 2 semanas ou doses ≥2 mg/Kg/dia
+                                  ou ≥40 mg/dia por mais de uma semana), no mês prévio à vacinação
+                                  Dose moderada de corticosteroides (prednisolona ≥0.5 mg/Kg/dia ou ≥10
+                                  mg/dia, ou seu equivalente por mais de 4 semanas) nos 3 meses prévios à
+                                  vacinação
+      Imunossupressão16,17
+                                  Terapêutica imunossupressora ou imunomoduladora, nomeadamente
+                                  terapêuticas depletoras dos linfócitos T e/ou B (incluindo o alemtuzumab (anti-
+                                  CD52) e rituximab (anti-CD20)), no momento da vacinação ou prévio à
+                                  vacinação
+                                  Medicamentos imunomoduladores não biológicos orais que configurem
+                                  imunossupressão grave, como por exemplo o micofenolato de mofetil, no
+                                  momento da vacinação ou prévio à vacinação, se persistência de
+                                  imunossupressão no momento de vacinação
+                                  Terapêutica imunossupressora combinada (dupla ou tripla), no momento da
+                                  vacinação ou prévio à vacinação, se persistência de imunossupressão no
+                                  momento de vacinação
+                                  Técnicas depletoras de anticorpos (como plasmaferese),
+                                  sem imunosubstituição adequada e risco de hipogamaglobulinemia, no
+                                  momento da vacinação ou prévio a esta
+(*) O acesso à vacinação das pessoas com condições de imunossupressão é efetuado através da PEM. Em situações
+excecionais, não expressamente previstas nos critérios de elegibilidade, o médico pode, mediante avaliação individual do
+benefício-risco e fundamentação clínica, declarar a elegibilidade para vacinação através da emissão de declaração médica
+na PEM.
+
+
+Quadro 4 - Patologias de risco para COVID-19: avaliação clínica individual de crianças dos 6 meses
+aos 17 anos de idade
+
+        Grupo
+                                                 Patologias de Risco (6 meses-17 anos) (*)
+      Nosológico
+     Doença                  Doença neurológica grave e/ou doenças neuromusculares (incluindo
+     neurológica
+                             paralisia cerebral e distrofias musculares)
+
+
+
+16
+ Esta lista não é limitada aos fármacos descritos. A avaliação do risco-benefício individual da vacinação deve ser realizada
+pelo médico assistente. Nestes casos, a vacinação deve ser realizada, preferencialmente, antes do início do tratamento.
+17
+  Outras condições de risco para imunossupressão grave, associadas a risco equiparável, poderão ser consideradas
+mediante avaliação individual do benefício-risco pelo médico assistente, devendo a elegibilidade ser formalizada através
+de declaração médica na PEM.
+18
+  A evidência sugere um risco menor de doença grave nos doentes a realizar terapêutica regular com imunoglobulina, pelo
+que deve ser realizada uma avaliação individual de risco-benefício da vacinação com base no seu grau e tipo de
+imunossupressão no momento desta.
+                                                                                                                       6/13
+NORMA N.º 007/2026 DE 17/09/2026, atualizada a 30/09/2026
+
+
+
+
+DIREÇÃO-GERAL DA SAÚDE
+
+Alameda D. Afonso Henriques, 45         Tel.: +351 21 843 05 00
+1049-005 Lisboa                         Email: geral@dgs.min-saude.pt                                       WWW.DGS.PT
+=== página 7 ===
+     Doença                  Insuficiência cardíaca com disfunção ventricular
+     cardiovascular
+                             Miocardiopatias (incluindo cardiopatias congénitas e síndromes
+                             genéticos associados a cardiopatias)
+                             Doença cardíaca associada a cianose grave
+                             Hipertensão pulmonar
+     Doença pulmonar         Doença respiratória crónica sob oxigenoterapia de longa duração (OLD)
+     crónica
+                             ou ventiloterapia
+                             Fibrose quística
+                             Deficiência de alfa-1-antitripsina
+     Obesidade               IMC >120% do P97 ou > 3Z-Score
+     Diabetes mellitus       Com mau controlo glicémico
+     Doença                  Doente renal crónico sob terapêutica                 de   substituição     de    função    renal
+     renal crónica           (hemodiálise/diálise peritoneal)
+(*) O acesso das pessoas com estas patologias à vacinação é realizado através da PEM, conforme Orientação da DGS –
+Vacinação sazonal contra a gripe e a COVID-19: Procedimentos Específicos
+
+
+Quadro 5 - Patologias de risco elegíveis para vacinação sazonal contra a COVID-19, no âmbito da
+campanha de vacinação sazonal 0utono-inverno 2026-2027, em pessoas com ≥18 anos de idade
+
+
+        Grupo Nosológico                                    Patologias de Risco (Adultos)19
+
+     Doença renal crónica               Doença renal crónica: estádio 4 ou 5 ou necessidade de diálise
+                                        Insuficiência cardíaca, cardiopatia estrutural significativa, hipertensão
+                                        pulmonar moderada a grave, doença cardiovascular aterosclerótica
+     Doença cardiovascular
+                                        associada a compromisso funcional relevante ou redução significativa da
+                                        reserva fisiológica
+                                        DPOC moderada a grave; doença intersticial pulmonar com compromisso
+     Doença respiratória                funcional significativo; bronquiectasias clinicamente significativas;
+     crónica                            hipertensão pulmonar moderada a grave; insuficiência respiratória crónica;
+                                        necessidade de suporte respiratório domiciliário;20 asma grave ou de difícil
+                                        controlo21
+                                        Diabetes mellitus complicada ou mal controlada, associada                           a
+     Diabetes mellitus
+                                        complicações orgânicas ou controlo metabólico inadequado
+     Obesidade                          Obesidade com IMC ≥35 Kg/m²
+
+
+
+19
+   As condições clínicas descritas neste quadro constituem critérios de elegibilidade vacinal. Contudo, poderão existir outras
+situações clínicas não expressamente contempladas no presente quadro, mas associadas a risco equiparável de evolução
+clínica desfavorável relacionada com a COVID-19. Nestas circunstâncias, a elegibilidade vacinal deverá ser determinada
+mediante avaliação clínica individualizada pelo médico assistente e respetiva prescrição, tendo em consideração a idade, a
+presença de imunossupressão, a fragilidade, a multimorbilidade, outros determinantes de vulnerabilidade clínica global e o
+contexto epidemiológico vigente no momento da decisão.
+20
+   Considera-se suporte respiratório domiciliário a necessidade de oxigenoterapia de longa duração ou ventilação não
+invasiva domiciliária por doença respiratória crónica grave ou insuficiência respiratória crónica, excluindo utilização isolada
+no contexto de síndrome de apneia obstrutiva do sono.
+21
+  Considera-se asma grave ou de difícil controlo particularmente quando associada a exacerbações frequentes,
+necessidade recorrente de corticoterapia sistémica ou limitação funcional clinicamente relevante.
+                                                                                                                          7/13
+NORMA N.º 007/2026 DE 17/09/2026, atualizada a 30/09/2026
+
+
+
+
+DIREÇÃO-GERAL DA SAÚDE
+
+Alameda D. Afonso Henriques, 45       Tel.: +351 21 843 05 00
+1049-005 Lisboa                       Email: geral@dgs.min-saude.pt                                            WWW.DGS.PT
+=== página 8 ===
+                                    Cirrose hepática, hipertensão portal clinicamente significativa, insuficiência
+     Doença hepática                hepática ou outras formas de doença hepática crónica avançada com
+                                    evidência de descompensação clínica ou compromisso funcional
+                                    relevante
+                                    Doenças neuromusculares com envolvimento respiratório, doenças
+                                    neurodegenerativas associadas a fragilidade moderada a grave, défices
+     Doença neurológica             neurológicos graves associados a dependência funcional, disfagia
+                                    clinicamente significativa e condições que comprometam a proteção
+                                    eficaz da via aérea
+                                    Neoplasia ativa; doença metastática; neoplasias hematológicas;
+     Doença oncológica              tratamento antineoplásico sistémico recente com impacto imunológico
+                                    relevante
+     Doença hematológica            Anemia das células falciformes
+
+
+
+
+Vacinas abrangidas pela presente Norma 22
+
+14. As vacinas contra a COVID-19 atualmente disponíveis utilizam diferentes plataformas
+    tecnológicas para induzir uma resposta imunitária protetora contra o SARS-CoV-2.
+15. Na campanha de vacinação sazonal 2026-2027, a vacina Comirnaty® XFG integra a estratégia
+    nacional de vacinação contra a COVID-19, sendo disponibilizada no âmbito do Serviço Nacional
+    de Saúde (SNS), nas apresentações:
+       a.   Comirnaty® XFG de 30 µg, indicada para pessoas com idade igual ou superior a 12 anos;
+       b.   Comirnaty® XFG de 10 µg, indicada para crianças com idade compreendida entre os 6
+            meses e os 11 anos de idade.
+16. A vacina Bimervax® XFG encontra-se comercializada em Portugal e pode ser administrada a
+    pessoas com contraindicação, intolerância ou reação adversa grave prévia a vacinas de mRNA,
+    antecedentes de miocardite ou pericardite temporalmente associados à sua administração ou
+    recusa persistente desta plataforma vacinal, sem prejuízo da indicação constante no Resumo
+    das Características do Medicamento (RCM) da vacina.
+       a.   A vacina Bimervax® XFG pode ser disponibilizada pelas Unidades Locais de Saúde (ULS),
+            mediante aquisição direta, para administração aos utentes referidos no ponto 16. Pode
+            ainda ser adquirida pelo utente em farmácia comunitária, mediante apresentação de
+            prescrição médica.
+17. Informação adicional relativa às vacinas disponíveis em Portugal e suas características pode ser
+    consultada no Livro Azul de Vacinas, no Capítulo dedicado à COVID-19. Devem ser sempre
+    consultados os Resumos das Características dos Medicamentos (RCM) das vacinas,
+    previamente à sua administração.23
+
+
+
+
+22
+   A EMA recomenda, para a campanha de vacinação contra a COVID-19 de 2026/2027, uma composição antigénica
+preferencialmente dirigida à variante XFG, considerando igualmente aceitáveis vacinas adaptadas à variante LP.8.1.
+(Disponível     em:        https://www.ema.europa.eu/en/documents/other/ema-recommendation-update-antigenic-
+composition-authorised-covid-19-vaccines-2026-2027_en.pdf)
+23
+  Os Resumos das Características dos Medicamentos (RCM) das vacinas contra a COVID-19 disponíveis em Portugal podem
+ser consultados em INFOMED.
+                                                                                                              8/13
+NORMA N.º 007/2026 DE 17/09/2026, atualizada a 30/09/2026
+
+
+
+
+DIREÇÃO-GERAL DA SAÚDE
+
+Alameda D. Afonso Henriques, 45    Tel.: +351 21 843 05 00
+1049-005 Lisboa                    Email: geral@dgs.min-saude.pt                                    WWW.DGS.PT
+=== página 9 ===
+Locais de vacinação
+18. A vacinação contra a COVID-19 ocorre em pontos de vacinação previamente existentes ou
+    adaptados e devidamente equipados nos termos da Portaria n.º 114/2024/1, de 22 de março,24
+    nomeadamente:
+            a.   Em unidades de saúde do SNS (cuidados de saúde primários e/ou cuidados de saúde
+                 hospitalares);
+            b.   Em Farmácias Comunitárias registadas no INFARMED, I.P. para a administração de
+                 vacinas contra a COVID-19 durante a Campanha de Vacinação Sazonal;
+            c.   Noutros locais de vacinação: fora das unidades de cuidados de saúde - domicílio,
+                 Serviços de Segurança e Saúde no Trabalho/Saúde Ocupacional (SST/SO) dos
+                 estabelecimentos de saúde, ERPI, RNCCI e instituições similares, estabelecimentos
+                 prisionais.
+19. Qualquer pessoa abrangida pela vacinação, no âmbito da presente Norma, pode dirigir-se a
+    uma unidade de saúde do SNS (cuidados de saúde primários e/ou cuidados de saúde
+    hospitalares25).26
+       a.    As unidades de saúde do SNS procedem à organização da sessão vacinal, agendamento
+             (através dos meios informáticos disponibilizados nas unidades de saúde) e convocatória,
+             sempre que necessário.
+20. A vacinação primária, no âmbito da presente Norma, ocorre:
+            a.   Em unidades de saúde do SNS;
+
+            b.   Em hospitais/clínicas do setor privado e social, que sejam pontos de vacinação
+                 autorizados27.
+
+21. A vacinação de crianças (≥6 meses e <17 anos de idade), no âmbito da presente Norma, ocorre:
+            a.   Em unidades de saúde do SNS;
+
+            b.   Em hospitais/clínicas do setor privado e social, que sejam pontos de vacinação
+                 autorizados28.
+
+22. A vacinação em farmácias comunitárias,29 no âmbito da presente Norma, pode ocorrer para
+    os seguintes grupos:
+       a.    Pessoas com 70 a 84 anos de idade (independentemente da existência de patologia de
+             risco).
+       b.    Pessoas com 18 a 69 anos de idade com patologia de risco.
+
+24
+     Portaria n.º 114/2024/1, de 22 de março. Disponível aqui.
+25
+  Em ambiente hospitalar, a sessão vacinal deverá ser previamente planeada para as pessoas em consulta ou internamento,
+assegurando a articulação entre os Serviços Farmacêuticos e os Cuidados de Saúde Primários da ULS.
+26
+  Nas unidades de saúde do SNS, podem também ser vacinadas as pessoas não abrangidas pela vacinação no SNS, para
+as quais a vacina contra a COVID-19 é dispensada nas farmácias comunitárias através de prescrição médica.
+27
+     Nos termos da Portaria n.º 114/2024/1, de 22 de março. Disponível aqui.
+28
+     Nos termos da Portaria n.º 114/2024/1, de 22 de março. Disponível aqui.
+29
+  Nas farmácias comunitárias, podem também ser vacinadas pessoas com idade ≥18 anos e <69 anos de idade, não
+abrangidas pela vacinação gratuita no SNS, para as quais a vacina contra a COVID-19 é dispensada nas farmácias
+comunitárias através do contingente privado (Bimervax®), mediante apresentação de prescrição médica.
+                                                                                                                  9/13
+NORMA N.º 007/2026 DE 17/09/2026, atualizada a 30/09/2026
+
+
+
+
+DIREÇÃO-GERAL DA SAÚDE
+
+Alameda D. Afonso Henriques, 45          Tel.: +351 21 843 05 00
+1049-005 Lisboa                          Email: geral@dgs.min-saude.pt                                  WWW.DGS.PT
+=== página 10 ===
+23. Os grupos mencionados no ponto anterior devem cumprir com os seguintes requisitos, que
+    devem ser conferidos pelo profissional de saúde que administra a vacina, previamente à sua
+    administração:
+       a.    Inexistência de história de reação de hipersensibilidade ou reações adversas graves após
+             vacinação anterior;
+       b.    Inexistência de contraindicações ou precauções que impeçam a vacinação no momento,
+             de acordo com o RCM aplicável;
+       c.    Apresentação de documento de identificação válido;
+       d.    No caso de pessoas com patologias de risco, deve ser efetuada validação da elegibilidade
+             para vacinação através da WebAPI e mediante apresentação de documento de
+             identificação válido.
+
+24. As farmácias comunitárias procedem à organização da sessão vacinal, agendamento (através
+    dos meios informáticos disponibilizados nas farmácias comunitárias) e convocatória, sempre
+    que necessário.
+25. Para a vacinação fora das unidades de saúde:
+       a.    As equipas de vacinação devem ser constituídas por profissionais de saúde com formação
+             e treino em vacinação e na atuação em casos de reações anafiláticas;
+       b.    As equipas de vacinação devem ter acesso a equipamento e medicamentos para
+             tratamento de reações anafiláticas, nos termos da Portaria n.º 114/2024/1 de 22 de março;30
+       c.    A nível local, e de acordo com os meios disponíveis, deve ser assegurada a pronta resposta
+             da emergência pré-hospitalar.
+
+
+Esquema de vacinação, via de administração e administração concomitante com outras vacinas
+26. De um modo geral, a vacinação contra a COVID-19 consiste na administração de uma dose
+    anual de vacina, no âmbito da campanha de vacinação sazonal outono-inverno.
+27. No âmbito da presente Norma, as vacinas contra a COVID-19 são administradas por via
+    intramuscular. Informação adicional sobre a via e local de administração das vacinas pode ser
+    consultada no Livro Azul de Vacinas, capítulo específico da COVID-19 (Quadros alusivos às
+    características das vacinas).
+28. A vacina contra a COVID-19 e a vacina contra a gripe podem ser coadministradas como medida
+    de promoção à sua adesão. No entanto, o utente pode optar por administração em dias
+    diferentes (com qualquer intervalo entre vacinas).
+29. A administração da vacina contra a COVID-19 ou da vacina contra a gripe não deve ser adiada
+    com o único propósito de serem coadministradas.
+30. Pode ser aconselhada a toma de paracetamol após a coadministração destas vacinas, dada a
+    possibilidade de uma maior reatogenicidade decorrente da coadministração. A utilização de
+    paracetamol deve ser considerada apenas quando clinicamente indicada, não sendo
+    recomendada de forma sistemática como profilaxia.
+
+
+
+
+30
+     Portaria n.º 114/2024/1, de 22 de março. Disponível aqui.
+                                                                                                   10/13
+NORMA N.º 007/2026 DE 17/09/2026, atualizada a 30/09/2026
+
+
+
+
+DIREÇÃO-GERAL DA SAÚDE
+
+Alameda D. Afonso Henriques, 45         Tel.: +351 21 843 05 00
+1049-005 Lisboa                         Email: geral@dgs.min-saude.pt                      WWW.DGS.PT
+=== página 11 ===
+31. A vacina injetável contra a COVID-19 pode ser administrada concomitantemente com as
+    vacinas do PNV. Quando administradas no mesmo momento, devem ser utilizados locais
+    anatómicos diferentes.
+32. O utente deve ser informado relativamente a possíveis reações adversas e sobre a forma
+    adequada de atuar perante as mesmas.
+
+
+
+Registo e sistema de informação – VACINAS
+
+33. Todos os atos vacinais devem ser registados durante a sessão vacinal:
+    a. As vacinas administradas, independentemente do local de vacinação, devem ser
+         registadas no momento da vacinação na Plataforma Nacional de Registo e Gestão da
+         Vacinação – VACINAS, ou até 24 horas após a administração, na indisponibilidade do
+         sistema.
+    b. Registos na Plataforma VACINAS:
+                i.  O registo da administração das vacinas do contingente do SNS deve ser
+                    realizado com o código “Covid19Pfizer” ou “Covid19BIMERVAX” e sinalizado
+                    como adquirido pelo SNS;
+               ii.  O registo da administração das vacinas do contingente privado deve ser
+                    realizado com o código “COVID19BIMERVAX” e sinalizado como não adquirido
+                    pelo SNS.
+34. No caso de um utente acumular mais do que um critério de elegibilidade, o registo na
+    plataforma VACINAS deverá ser feito cumprindo a seguinte ordem de prioridade: 1)
+    elegibilidade por contexto (contexto vulnerável ou contexto ocupacional); 2) elegibilidade por
+    patologia de risco; 3) elegibilidade por idade.
+
+
+Monitorização pós-vacinação
+35. A monitorização do número de doses administradas e da cobertura dos elegíveis é da
+    responsabilidade da DGS e é realizada com base na Plataforma Nacional de Registo e Gestão
+    da Vacinação – VACINAS, com a colaboração dos Serviços Operativos de Saúde Pública de
+    âmbito regional e das Unidades Locais de Saúde (ULS).
+
+36. A monitorização da segurança é realizada através do Sistema Nacional de Farmacovigilância,
+    cuja gestão e responsabilidade é da competência do INFARMED, I.P.
+     a.    Os médicos, os enfermeiros e os farmacêuticos devem estar atentos a eventuais reações
+           adversas e consultar o Resumo das Caraterísticas do Medicamento, disponível na base de
+           dados de Medicamentos de Uso Humano – INFOMED.
+     b.    Todas as suspeitas de reações adversas devem ser comunicadas ao INFARMED, I.P., pelos
+           profissionais de saúde, no Portal de Notificação de Reações Adversas - Portal RAM.31 De
+           modo a melhorar a rastreabilidade dos medicamentos, o nome e o número de lote da
+
+
+
+
+31
+  Em alternativa, podem ser utilizados os seguintes contactos: INFARMED, I.P. – Direção de Gestão do Risco de
+Medicamentos: +351 21 798 73 73 e/ou farmacovigilancia@infarmed.pt; Linha do Medicamento (gratuita): 800 222 444.
+                                                                                                                  11/13
+NORMA N.º 007/2026 DE 17/09/2026, atualizada a 30/09/2026
+
+
+
+
+DIREÇÃO-GERAL DA SAÚDE
+
+Alameda D. Afonso Henriques, 45     Tel.: +351 21 843 05 00
+1049-005 Lisboa                     Email: geral@dgs.min-saude.pt                                       WWW.DGS.PT
+=== página 12 ===
+           vacina administrada devem ser registados de forma clara, sempre que se comunicam
+           suspeitas de reações adversas.
+2.   As reações adversas mais frequentes podem ser consultadas no Livro Azul de Vacinas, capítulo
+     específico da COVID-19 (Quadros alusivos às características das vacinas) e nos RCM das vacinas
+     a administrar.
+
+
+Deve ser consultado o Livro Azul de Vacinas para informação adicional, nomeadamente o capítulo
+específico da COVID-19.
+
+Deve constar do processo clínico a decisão fundamentada da eventual impossibilidade da
+aplicação da presente Norma.
+
+A presente Norma será objeto de revisão e atualização sempre que tal se revele necessário,
+nomeadamente em resultado da evolução da evidência científica disponível, da emissão de novas
+recomendações nacionais ou internacionais, de alterações na disponibilidade de vacinas ou de
+modificações do enquadramento regulamentar aplicável.
+
+Ficam sem efeito os conteúdos de normas, orientações, circulares, ofícios e informações anteriores
+que contrariem o disposto nesta Norma.
+
+
+
+
+                                        Rita Sá
+                                                            Digitally signed by Rita Sá Machado
+                                                            DN: c=PT, title=Diretora-Geral da
+                                                            Saúde, ou=Direção, o=Direção-
+                                                            Geral da Saúde, sn=Sá Machado
+
+                                        Machado             Duarte, givenName=Rita Manuel,
+                                                            cn=Rita Sá Machado
+                                                            Date: 2026.09.30 15:09:18 +01'00'
+
+
+                                                Rita Sá Machado
+
+                                           Diretora-Geral da Saúde
+
+
+
+
+                                                                                                         12/13
+NORMA N.º 007/2026 DE 17/09/2026, atualizada a 30/09/2026
+
+
+
+
+DIREÇÃO-GERAL DA SAÚDE
+
+Alameda D. Afonso Henriques, 45   Tel.: +351 21 843 05 00
+1049-005 Lisboa                   Email: geral@dgs.min-saude.pt                                   WWW.DGS.PT
+=== página 13 ===
+APOIO CIENTÍFICO
+
+A. A presente Norma foi elaborada no âmbito da Unidade de Vacinas, Imunização e Produtos
+   Biológicos, da Direção de Serviços de Prevenção da Doença e Promoção da Saúde (DSPDPS),
+   tendo por base o parecer da Comissão Técnica de Vacinação – Núcleo Permanente de
+   Vacinação Sazonal.
+B. Os peritos envolvidos na atualização da presente Norma cumpriram o determinado pelo
+   Decreto-Lei n.º 14/2014 de 22 de janeiro, no que se refere à declaração de inexistência de
+   incompatibilidades.
+C. A presente Norma foi submetida à auscultação da Comissão Técnica de Vacinação, Direção
+   Executiva do SNS, I.P., Instituto Nacional de Saúde Doutor Ricardo Jorge (INSA), Autoridade
+   Nacional do Medicamento e Produtos de Saúde, I. P. (INFARMED), Serviços Partilhados do
+   Ministério da Saúde, E.P.E. (SPMS), Serviço de Utilização Comum dos Hospitais (SUCH), Grupo
+   Operacional da Vacinação Sazonal (GOVS), Coordenadores Regionais de Vacinação e
+   Autoridades de Saúde de âmbito Regional.
+
+
+
+
+                                                                                         13/13
+NORMA N.º 007/2026 DE 17/09/2026, atualizada a 30/09/2026
+
+
+
+
+DIREÇÃO-GERAL DA SAÚDE
+
+Alameda D. Afonso Henriques, 45   Tel.: +351 21 843 05 00
+1049-005 Lisboa                   Email: geral@dgs.min-saude.pt                   WWW.DGS.PT
+

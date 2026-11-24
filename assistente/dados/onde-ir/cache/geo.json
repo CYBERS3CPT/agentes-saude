@@ -1,0 +1,407 @@
+{
+ "odivelas": {
+  "lat": 38.79269,
+  "lon": -9.1838,
+  "nome": "Odivelas (Lisboa)"
+ },
+ "lisboa": {
+  "lat": 38.72509,
+  "lon": -9.1498,
+  "nome": "Lisboa (Lisboa)"
+ },
+ "porto": {
+  "lat": 41.1485,
+  "lon": -8.61097,
+  "nome": "Porto (Distrito do Porto)"
+ },
+ "coimbra": {
+  "lat": 40.20686,
+  "lon": -8.41996,
+  "nome": "Coimbra (Coimbra)"
+ },
+ "braga": {
+  "lat": 41.5514,
+  "lon": -8.42311,
+  "nome": "Braga (Braga)"
+ },
+ "aveiro": {
+  "lat": 40.64575,
+  "lon": -8.64643,
+  "nome": "Aveiro (Aveiro)"
+ },
+ "viseu": {
+  "lat": 40.66165,
+  "lon": -7.90905,
+  "nome": "Viseu (Viseu)"
+ },
+ "guarda": {
+  "lat": 40.53754,
+  "lon": -7.26631,
+  "nome": "Guarda (Distrito da Guarda)"
+ },
+ "castelo branco": {
+  "lat": 39.82364,
+  "lon": -7.49101,
+  "nome": "Castelo Branco (Castelo Branco)"
+ },
+ "leiria": {
+  "lat": 39.74362,
+  "lon": -8.80705,
+  "nome": "Leiria (Leiria)"
+ },
+ "santarem": {
+  "lat": 39.23379,
+  "lon": -8.68617,
+  "nome": "Santarém (Santarém)"
+ },
+ "setubal": {
+  "lat": 38.5244,
+  "lon": -8.8882,
+  "nome": "Setúbal (Setúbal)"
+ },
+ "evora": {
+  "lat": 38.56587,
+  "lon": -7.90405,
+  "nome": "Évora (Évora)"
+ },
+ "beja": {
+  "lat": 38.01469,
+  "lon": -7.86284,
+  "nome": "Beja (Beja)"
+ },
+ "faro": {
+  "lat": 37.01869,
+  "lon": -7.92716,
+  "nome": "Faro (Faro)"
+ },
+ "portalegre": {
+  "lat": 39.29379,
+  "lon": -7.43122,
+  "nome": "Portalegre (Portalegre)"
+ },
+ "braganca": {
+  "lat": 41.80716,
+  "lon": -6.75898,
+  "nome": "Bragança (Bragança)"
+ },
+ "vila real": {
+  "lat": 41.3001,
+  "lon": -7.7432,
+  "nome": "Vila Real (Vila Real)"
+ },
+ "viana do castelo": {
+  "lat": 41.69323,
+  "lon": -8.83287,
+  "nome": "Viana do Castelo (Viana do Castelo)"
+ },
+ "funchal": {
+  "lat": 32.66568,
+  "lon": -16.92547,
+  "nome": "Funchal (Madeira)"
+ },
+ "ponta delgada": {
+  "lat": 37.73952,
+  "lon": -25.66874,
+  "nome": "Ponta Delgada (Açores)"
+ },
+ "angra do heroismo": {
+  "lat": 38.6539,
+  "lon": -27.21839,
+  "nome": "Angra do Heroísmo (Açores)"
+ },
+ "sintra": {
+  "lat": 38.80097,
+  "lon": -9.37826,
+  "nome": "Sintra (Lisboa)"
+ },
+ "cascais": {
+  "lat": 38.69681,
+  "lon": -9.42147,
+  "nome": "Cascais (Lisboa)"
+ },
+ "oeiras": {
+  "lat": 38.69105,
+  "lon": -9.31085,
+  "nome": "Oeiras (Lisboa)"
+ },
+ "amadora": {
+  "lat": 38.75382,
+  "lon": -9.23083,
+  "nome": "Amadora (Lisboa)"
+ },
+ "loures": {
+  "lat": 38.83091,
+  "lon": -9.16845,
+  "nome": "Loures (Lisboa)"
+ },
+ "vila franca de xira": {
+  "lat": 38.95525,
+  "lon": -8.98966,
+  "nome": "Vila Franca de Xira (Lisboa)"
+ },
+ "almada": {
+  "lat": 38.67902,
+  "lon": -9.1569,
+  "nome": "Almada (Setúbal)"
+ },
+ "seixal": {
+  "lat": 38.64008,
+  "lon": -9.10141,
+  "nome": "Seixal (Setúbal)"
+ },
+ "barreiro": {
+  "lat": 38.66314,
+  "lon": -9.0724,
+  "nome": "Barreiro (Setúbal)"
+ },
+ "montijo": {
+  "lat": 38.70675,
+  "lon": -8.97388,
+  "nome": "Montijo (Setúbal)"
+ },
+ "palmela": {
+  "lat": 38.56902,
+  "lon": -8.90126,
+  "nome": "Palmela (Setúbal)"
+ },
+ "mafra": {
+  "lat": 38.93793,
+  "lon": -9.32756,
+  "nome": "Mafra (Lisboa)"
+ },
+ "torres vedras": {
+  "lat": 39.09109,
+  "lon": -9.2586,
+  "nome": "Torres Vedras (Lisboa)"
+ },
+ "vila nova de gaia": {
+  "lat": 41.12401,
+  "lon": -8.61241,
+  "nome": "Vila Nova de Gaia (Distrito do Porto)"
+ },
+ "matosinhos": {
+  "lat": 41.18207,
+  "lon": -8.68908,
+  "nome": "Matosinhos (Distrito do Porto)"
+ },
+ "maia": {
+  "lat": 41.23574,
+  "lon": -8.6199,
+  "nome": "Maia (Distrito do Porto)"
+ },
+ "gondomar": {
+  "lat": 41.14454,
+  "lon": -8.53223,
+  "nome": "Gondomar (Distrito do Porto)"
+ },
+ "valongo": {
+  "lat": 41.18883,
+  "lon": -8.49857,
+  "nome": "Valongo (Distrito do Porto)"
+ },
+ "vila do conde": {
+  "lat": 41.35326,
+  "lon": -8.74516,
+  "nome": "Vila do Conde (Distrito do Porto)"
+ },
+ "povoa de varzim": {
+  "lat": 41.38344,
+  "lon": -8.76364,
+  "nome": "Póvoa de Varzim (Distrito do Porto)"
+ },
+ "guimaraes": {
+  "lat": 41.44443,
+  "lon": -8.29619,
+  "nome": "Guimarães (Braga)"
+ },
+ "famalicao": {
+  "lat": 41.40797,
+  "lon": -8.51978,
+  "nome": "Vila Nova de Famalicão (Braga)"
+ },
+ "vila nova de famalicao": {
+  "lat": 41.40797,
+  "lon": -8.51978,
+  "nome": "Vila Nova de Famalicão (Braga)"
+ },
+ "barcelos": {
+  "lat": 41.53174,
+  "lon": -8.61843,
+  "nome": "Barcelos (Braga)"
+ },
+ "penafiel": {
+  "lat": 41.20835,
+  "lon": -8.28285,
+  "nome": "Penafiel (Distrito do Porto)"
+ },
+ "amarante": {
+  "lat": 41.27271,
+  "lon": -8.08245,
+  "nome": "Amarante (Distrito do Porto)"
+ },
+ "felgueiras": {
+  "lat": 41.36806,
+  "lon": -8.19396,
+  "nome": "Felgueiras (Distrito do Porto)"
+ },
+ "paredes": {
+  "lat": 41.20485,
+  "lon": -8.33147,
+  "nome": "Paredes (Distrito do Porto)"
+ },
+ "santa maria da feira": {
+  "lat": 40.92726,
+  "lon": -8.54839,
+  "nome": "Santa Maria da Feira (Aveiro)"
+ },
+ "ovar": {
+  "lat": 40.85862,
+  "lon": -8.62513,
+  "nome": "Ovar (Aveiro)"
+ },
+ "agueda": {
+  "lat": 40.5772,
+  "lon": -8.44442,
+  "nome": "Águeda (Aveiro)"
+ },
+ "figueira da foz": {
+  "lat": 40.15085,
+  "lon": -8.86179,
+  "nome": "Figueira da Foz (Coimbra)"
+ },
+ "pombal": {
+  "lat": 39.91674,
+  "lon": -8.62847,
+  "nome": "Pombal (Leiria)"
+ },
+ "tomar": {
+  "lat": 39.60199,
+  "lon": -8.40924,
+  "nome": "Tomar (Santarém)"
+ },
+ "abrantes": {
+  "lat": 39.46667,
+  "lon": -8.2,
+  "nome": "Abrantes (Santarém)"
+ },
+ "covilha": {
+  "lat": 40.28106,
+  "lon": -7.50504,
+  "nome": "Covilhã (Castelo Branco)"
+ },
+ "fundao": {
+  "lat": 40.14025,
+  "lon": -7.50135,
+  "nome": "Fundão (Castelo Branco)"
+ },
+ "chaves": {
+  "lat": 41.74019,
+  "lon": -7.46879,
+  "nome": "Chaves (Vila Real)"
+ },
+ "lamego": {
+  "lat": 41.09741,
+  "lon": -7.80991,
+  "nome": "Lamego (Viseu)"
+ },
+ "mirandela": {
+  "lat": 41.48739,
+  "lon": -7.18695,
+  "nome": "Mirandela (Bragança)"
+ },
+ "elvas": {
+  "lat": 38.8815,
+  "lon": -7.16282,
+  "nome": "Elvas (Portalegre)"
+ },
+ "sines": {
+  "lat": 37.95622,
+  "lon": -8.86979,
+  "nome": "Sines (Setúbal)"
+ },
+ "odemira": {
+  "lat": 37.59798,
+  "lon": -8.63972,
+  "nome": "Odemira (Beja)"
+ },
+ "portimao": {
+  "lat": 37.13856,
+  "lon": -8.53775,
+  "nome": "Portimão (Faro)"
+ },
+ "lagos": {
+  "lat": 37.10202,
+  "lon": -8.67422,
+  "nome": "Lagos (Faro)"
+ },
+ "albufeira": {
+  "lat": 37.08819,
+  "lon": -8.2503,
+  "nome": "Albufeira (Faro)"
+ },
+ "loule": {
+  "lat": 37.13772,
+  "lon": -8.01968,
+  "nome": "Loulé (Faro)"
+ },
+ "olhao": {
+  "lat": 37.0286,
+  "lon": -7.8411,
+  "nome": "Olhão (Faro)"
+ },
+ "tavira": {
+  "lat": 37.12734,
+  "lon": -7.64861,
+  "nome": "Tavira (Faro)"
+ },
+ "caldas da rainha": {
+  "lat": 39.40326,
+  "lon": -9.13839,
+  "nome": "Caldas da Rainha (Leiria)"
+ },
+ "alcobaca": {
+  "lat": 39.55223,
+  "lon": -8.97749,
+  "nome": "Alcobaça (Leiria)"
+ },
+ "peniche": {
+  "lat": 39.3558,
+  "lon": -9.38112,
+  "nome": "Peniche (Leiria)"
+ },
+ "ourem": {
+  "lat": 39.64167,
+  "lon": -8.5919,
+  "nome": "Ourém (Santarém)"
+ },
+ "entroncamento": {
+  "lat": 39.46667,
+  "lon": -8.46667,
+  "nome": "Entroncamento (Santarém)"
+ },
+ "benavente": {
+  "lat": 38.97919,
+  "lon": -8.80759,
+  "nome": "Benavente (Santarém)"
+ },
+ "montemor-o-novo": {
+  "lat": 38.64812,
+  "lon": -8.21455,
+  "nome": "Montemor-o-Novo (Évora)"
+ },
+ "estremoz": {
+  "lat": 38.84432,
+  "lon": -7.58585,
+  "nome": "Estremoz (Évora)"
+ },
+ "moura": {
+  "lat": 38.1401,
+  "lon": -7.44856,
+  "nome": "Moura (Beja)"
+ },
+ "mertola": {
+  "lat": 37.64304,
+  "lon": -7.6611,
+  "nome": "Mértola (Beja)"
+ }
+}

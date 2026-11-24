@@ -1,0 +1,93 @@
+{
+  "titulo": "Onde vou hoje? — Lisboa",
+  "subtitulo": "Criança de 3 anos, febre desde ontem",
+  "aviso_topo": "Informação pública, não substitui a avaliação de um profissional. Em emergência ligue 112.",
+  "alertas": [
+    {
+      "nivel": "info",
+      "texto": "Antes de sair de casa, ligue SNS 24: 808 24 24 24. Faz a triagem por telefone e diz para onde ir."
+    },
+    {
+      "nivel": "aviso",
+      "texto": "Se a criança tiver dificuldade em respirar, convulsões, ficar muito prostrada ou difícil de acordar, ligue 112."
+    },
+    {
+      "nivel": "aviso",
+      "texto": "As urgências pediátricas da D. Estefânia e de Santa Maria aparecem como \"Aberta / Novo Modelo Projeto Piloto\". O site não explica o modelo: confirme com o SNS 24 se é preciso encaminhamento antes de ir."
+    },
+    {
+      "nivel": "aviso",
+      "texto": "Hospital de Santa Maria: o site diz que os dados desta ULS estão temporariamente indisponíveis (manutenção informática). Os tempos que mostra a zero não valem."
+    },
+    {
+      "nivel": "aviso",
+      "texto": "Hospital Garcia de Orta: o dataset associa esta valência a outra unidade (H. José Joaquim Fernandes, Beja). Pode ser erro nos dados: confirmar com o SNS 24."
+    }
+  ],
+  "seccoes": [
+    {
+      "titulo": "O que fazer agora",
+      "texto": "Ligue primeiro para o **SNS 24 (808 24 24 24)**: faz a triagem por telefone e diz se é preciso ir à urgência, a uma consulta ou se pode ficar em casa. Se encaminhar para a urgência, a pediátrica mais próxima é a do **Hospital D. Estefânia** (1,0 km em linha reta), aberta 24 horas segundo o site do SNS às 23:26. A alternativa é o **Hospital de Santa Maria** (3,0 km), cujo estado diz aberta, mas sem tempos de espera disponíveis. Se aparecerem sinais de alarme, ligue 112."
+    },
+    {
+      "titulo": "Agora, segundo o SNS",
+      "tabela": {
+        "colunas": ["Unidade", "Estado", "Utentes à espera", "Tempo médio", "Lido às"],
+        "linhas": [
+          ["H. D. Estefânia — Urg. Pediátrica", "Aberta / Novo Modelo Projeto Piloto · 00:00–24:00", "11", "1h04 (máx. 2h34)", "23:26 (dados de 23:20)"],
+          ["H. Santa Maria — Urg. Pediátrica", "Aberta / Novo Modelo Projeto Piloto · 00:00–24:00", "não consegui ler (dados indisponíveis)", "não consegui ler (dados indisponíveis)", "23:26"],
+          ["H. Garcia de Orta", "não lido", "—", "—", "—"],
+          ["H. São Francisco Xavier", "não lido", "—", "—", "—"]
+        ]
+      }
+    },
+    {
+      "titulo": "No mapa",
+      "mapa": {
+        "centro": {"nome": "Lisboa", "lat": 38.72509, "lon": -9.14980},
+        "pontos": [
+          {"nome": "D. Estefânia", "lat": 38.72838, "lon": -9.13931, "etiqueta": "aberta · 11 à espera · 1h04 (23:26)", "nivel": "ok"},
+          {"nome": "Santa Maria", "lat": 38.75006, "lon": -9.16151, "etiqueta": "aberta · tempos indisponíveis (23:26)", "nivel": "aviso"},
+          {"nome": "Garcia de Orta", "lat": 38.67381, "lon": -9.17597, "etiqueta": "não lido"},
+          {"nome": "São Francisco Xavier", "lat": 38.7084, "lon": -9.21711, "etiqueta": "não lido"}
+        ],
+        "nota": "Distâncias em linha reta."
+      }
+    },
+    {
+      "titulo": "Urgências mais próximas",
+      "tabela": {
+        "colunas": ["Unidade", "Tipo", "Distância", "Acesso", "Telefone"],
+        "linhas": [
+          ["H. D. Estefânia", "Polivalente com Centro de Trauma", "1,0 km", "iniciativa própria, SNS 24, centro de saúde", "213 126 600"],
+          ["H. Santa Maria", "Polivalente com Centro de Trauma", "3,0 km", "iniciativa própria, SNS 24, centro de saúde", "217 805 000"],
+          ["H. São Francisco Xavier", "Polivalente", "6,1 km", "iniciativa própria, SNS 24, centro de saúde", "210 431 000"]
+        ]
+      }
+    },
+    {
+      "titulo": "O que não sei",
+      "lista": [
+        "Se a criança precisa de ir à urgência: isso é a triagem do SNS 24 que diz.",
+        "O que significa, na prática, \"Novo Modelo Projeto Piloto\" no acesso à urgência pediátrica.",
+        "Os tempos de espera de Santa Maria (dados indisponíveis no site) e de Garcia de Orta e São Francisco Xavier (não lidos).",
+        "Os tempos mostrados são médias de quem está à espera agora, não uma previsão para quem chega.",
+        "Distâncias e tempos de viagem por estrada."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Portal da Transparência do SNS — Caracterização das valências de urgência (cópia local de 23/11/2026; dataset atualizado a 2026-06-17)",
+      "url": "https://transparencia.sns.gov.pt/explore/dataset/caracterizacao-das-valencias-de-urgencia/"
+    },
+    {
+      "nome": "Tempos de espera — Hospital D. Estefânia (lido às 23:26; dados de 23/11/2026 23:20)",
+      "url": "https://tempos.min-saude.pt/instituicao/249"
+    },
+    {
+      "nome": "Tempos de espera — Hospital de Santa Maria (lido às 23:26; dados indisponíveis)",
+      "url": "https://tempos.min-saude.pt/instituicao/237"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "proposta": "gama",
+  "concorrente": "Gama Demo Health, Lda.",
+  "preco": 138000,
+  "requisitos": {
+    "R1": {
+      "estado": "cumpre",
+      "citacao": "Portal web e aplicações Android/iOS, marcação 24/7, incluindo marcação em nome",
+      "justificacao": "Concretiza os canais (web, Android/iOS) e a disponibilidade 24/7, e indica um ambiente de demonstração (demo.gamahealth.exemplo)."
+    },
+    "R2": {
+      "estado": "cumpre",
+      "citacao": "API **HL7 FHIR R4** (perfis `Immunization`, `Appointment`, `Patient`,",
+      "justificacao": "Indica a norma FHIR R4 e os perfis usados, e remete a documentação OpenAPI para o Anexo C. Também oferece ambiente de testes desde o dia 1."
+    },
+    "R3": {
+      "estado": "cumpre",
+      "citacao": "Produção em centro de dados em **Frankfurt (Alemanha)**; cópias de segurança",
+      "justificacao": "Diz onde ficam a produção (Frankfurt) e as cópias de segurança cifradas (Lisboa), ambas na UE. Acrescenta que nenhum dado pessoal sai da UE, nem pelo suporte."
+    },
+    "R4": {
+      "estado": "cumpre",
+      "citacao": "Acordo de subcontratação (art.º 28.º RGPD) **assinado, Anexo A**, com lista de",
+      "justificacao": "Declara o acordo assinado no Anexo A, com subcontratantes ulteriores e medidas técnicas e organizativas. O júri deve confirmar se o anexo foi entregue e está assinado."
+    },
+    "R5": {
+      "estado": "cumpre",
+      "citacao": "Chave Móvel Digital e Cartão de Cidadão; profissionais com autenticação de",
+      "justificacao": "Indica a Chave Móvel Digital para os utentes, como o requisito pede."
+    },
+    "R6": {
+      "estado": "cumpre",
+      "citacao": "Relatório de avaliação **WCAG 2.1 AA** (Anexo B), de outubro de 2026, sem não",
+      "justificacao": "Remete para um relatório de avaliação datado (Anexo B) e para a declaração de acessibilidade publicada."
+    },
+    "R7": {
+      "estado": "cumpre",
+      "citacao": "Disponibilidade mensal de **99,9 %**; penalização de 10 % da mensalidade por",
+      "justificacao": "Compromete-se com 99,9 % (acima dos 99,5 % pedidos) e define a penalização: 10 % por cada 0,1 % abaixo de 99,5 %. Fixa ainda 1 h de resposta a incidentes críticos."
+    },
+    "R8": {
+      "estado": "cumpre",
+      "citacao": "SMS e email configuráveis pelo hospital; opt-out em todas as mensagens e na",
+      "justificacao": "Prevê SMS e email, com opt-out em cada mensagem."
+    },
+    "R9": {
+      "estado": "cumpre",
+      "citacao": "**40 dias**, com plano detalhado no Anexo D.",
+      "justificacao": "O prazo de 40 dias fica abaixo do limite de 60 e há um plano no Anexo D."
+    },
+    "V1": {
+      "estado": "cumpre",
+      "citacao": "português, inglês, francês e ucraniano.",
+      "justificacao": "Para além do português e do inglês, oferece duas línguas (francês e ucraniano)."
+    },
+    "V2": {
+      "estado": "cumpre",
+      "citacao": "lista de espera com remarcação automática e confirmação em 30 min.",
+      "justificacao": "Descreve a lista de espera com remarcação automática e dá um parâmetro concreto: confirmação em 30 min."
+    },
+    "V3": {
+      "estado": "cumpre",
+      "citacao": "painel em tempo real (marcações, faltas, doses, tempo médio no posto).",
+      "justificacao": "Tem os três indicadores pedidos (marcações, faltas, doses) e mais um."
+    },
+    "V4": {
+      "estado": "cumpre",
+      "citacao": "certificado **ISO/IEC 27001:2022** n.º FIC-27001-0420, válido até",
+      "justificacao": "Identifica o certificado pelo número, válido até 03/2028, com âmbito 'desenvolvimento e operação da plataforma Gama Vacinação' (Anexo E). O âmbito inclui o serviço proposto."
+    }
+  },
+  "alertas": []
+}

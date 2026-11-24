@@ -1,0 +1,165 @@
+{
+  "_leia-me": "O que pertence a cada competência do assistente. O demo/montar.py usa isto para montar o agente em qualquer momento do dia (--ate N) e para gerar assistente/.claude/settings.json.",
+  "base": {
+    "ferramentas": [
+      "pagina.py"
+    ],
+    "allow": [
+      "Read(./**)",
+      "Edit(./saida/**)",
+      "Bash(python3 ferramentas/pagina.py:*)",
+      "Bash(python ferramentas/pagina.py:*)",
+      "Bash(open saida/:*)",
+      "Bash(xdg-open saida/:*)",
+      "Bash(mkdir -p saida/:*)",
+      "Bash(ls:*)"
+    ],
+    "ask": [
+      "Bash(curl:*)",
+      "Bash(wget:*)",
+      "Bash(mail:*)",
+      "Bash(sendmail:*)",
+      "Bash(pip:*)",
+      "Bash(pip3:*)",
+      "WebFetch",
+      "WebSearch",
+      "Edit(./dados/**)",
+      "Edit(./.claude/**)"
+    ],
+    "deny": [
+      "Read(./.env)",
+      "Read(~/.ssh/**)"
+    ]
+  },
+  "competencias": [
+    {
+      "n": 1,
+      "nome": "onde-ir",
+      "hora": "08:00",
+      "momento": "A linha de informação",
+      "ferramentas": [
+        "urgencias.py"
+      ],
+      "agentes": [],
+      "allow": [
+        "Bash(python3 ferramentas/urgencias.py:*)",
+        "Bash(python ferramentas/urgencias.py:*)",
+        "mcp__browser__browser_navigate",
+        "mcp__browser__browser_snapshot",
+        "mcp__browser__browser_click",
+        "mcp__browser__browser_wait_for",
+        "mcp__browser__browser_find",
+        "mcp__browser__browser_select_option",
+        "mcp__browser__browser_navigate_back",
+        "mcp__browser__browser_take_screenshot",
+        "mcp__browser__browser_close"
+      ],
+      "ask": [
+        "mcp__browser__browser_type",
+        "mcp__browser__browser_fill_form",
+        "mcp__browser__browser_press_key",
+        "mcp__browser__browser_file_upload",
+        "mcp__browser__browser_drag",
+        "mcp__browser__browser_drop"
+      ],
+      "porque": "pode consultar os dados abertos das urgências e abrir um browser, que só chega ao site dos tempos de espera do SNS",
+      "mcp": "browser",
+      "deny": [
+        "mcp__browser__browser_evaluate",
+        "mcp__browser__browser_run_code_unsafe"
+      ]
+    },
+    {
+      "n": 2,
+      "nome": "triagem",
+      "hora": "09:30",
+      "momento": "A caixa de suporte",
+      "ferramentas": [
+        "mascarar.py"
+      ],
+      "agentes": [
+        "atacante.md"
+      ],
+      "allow": [
+        "Bash(python3 ferramentas/mascarar.py:*)",
+        "Bash(python ferramentas/mascarar.py:*)",
+        "Agent(atacante)"
+      ],
+      "ask": [],
+      "porque": "pode mascarar dados pessoais nos rascunhos e procurar fugas; e o red team pode escrever ataques, só em saida/",
+      "skills_extra": [
+        "atacar"
+      ]
+    },
+    {
+      "n": 3,
+      "nome": "relatorio",
+      "hora": "11:00",
+      "momento": "O conselho de administração",
+      "ferramentas": [
+        "dados_sns.py",
+        "verificar.py"
+      ],
+      "agentes": [],
+      "allow": [
+        "Bash(python3 ferramentas/dados_sns.py:*)",
+        "Bash(python3 ferramentas/verificar.py:*)",
+        "Bash(python3 saida/relatorio/analise/*)"
+      ],
+      "ask": [],
+      "porque": "pode descarregar dados abertos, correr os scripts que ele próprio escreve e o verificador"
+    },
+    {
+      "n": 4,
+      "nome": "norma",
+      "hora": "14:00",
+      "momento": "A saúde ocupacional",
+      "ferramentas": [
+        "procurar.py"
+      ],
+      "agentes": [],
+      "allow": [
+        "Bash(python3 ferramentas/procurar.py:*)",
+        "Bash(python ferramentas/procurar.py:*)"
+      ],
+      "ask": [],
+      "porque": "pode pesquisar nas normas carregadas"
+    },
+    {
+      "n": 5,
+      "nome": "comparar",
+      "hora": "16:00",
+      "momento": "O júri da plataforma de vacinação",
+      "ferramentas": [
+        "pontuar.py",
+        "notificar.py"
+      ],
+      "agentes": [
+        "avaliador.md"
+      ],
+      "allow": [
+        "Bash(python3 ferramentas/pontuar.py:*)",
+        "Bash(python ferramentas/pontuar.py:*)",
+        "Agent(avaliador)"
+      ],
+      "ask": [
+        "Bash(python3 ferramentas/notificar.py:*)",
+        "Bash(python ferramentas/notificar.py:*)"
+      ],
+      "porque": "pode lançar avaliadores em paralelo e fazer as contas; notificar concorrentes fica sempre em 'ask'"
+    },
+    {
+      "n": 6,
+      "nome": "rever-o-dia",
+      "hora": "18:00",
+      "momento": "O fecho do dia",
+      "ferramentas": [],
+      "agentes": [],
+      "allow": [],
+      "ask": [],
+      "porque": "não precisa de permissões novas: lê o diário e escreve em saida/dia/; mexer no próprio manual continua a pedir autorização",
+      "saida": "dia"
+    }
+  ],
+  "_browser": "O browser (Playwright MCP, assistente/.mcp.json) só pode pedir os domínios de --allowed-origins: o site dos tempos e o Power BI que ele embebe. Se o SNS mudar de servidor Power BI, a página deixa de carregar e o agente tem de dizer que não conseguiu ler."
+}

@@ -1,0 +1,18 @@
+{
+  "mcpServers": {
+    "browser": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@playwright/mcp@0.0.86",
+        "--isolated",
+        "--viewport-size",
+        "1280x900",
+        "--output-dir",
+        "saida/onde-ir/browser",
+        "--allowed-origins",
+        "https://tempos.min-saude.pt;https://app.powerbi.com;https://appsource.powerbi.com;https://content.powerapps.com;https://d3b9873f261b4f2e81db4d522fa4576e.pbidedicated.windows.net;https://wabi-north-europe-redirect.analysis.windows.net;https://pbivisuals.powerbi.com;https://res.cdn.office.net;https://dc.services.visualstudio.com;https://js.monitor.azure.com;https://fonts.googleapis.com;https://fonts.gstatic.com"
+      ]
+    }
+  }
+}

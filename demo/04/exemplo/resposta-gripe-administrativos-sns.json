@@ -1,0 +1,52 @@
+{
+  "titulo": "Administrativa no secretariado da urgência, sem prestar cuidados: tenho direito à vacina da gripe gratuita?",
+  "subtitulo": "Segundo as normas da DGS carregadas a 23/11/2026",
+  "aviso_topo": "Informação sobre normas, não aconselhamento clínico. Confirme sempre a versão em vigor no site da DGS.",
+  "alertas": [
+    {
+      "nivel": "ok",
+      "texto": "Sim, se trabalha numa instituição do SNS: a norma em vigor inclui todos os profissionais do SNS, não só quem presta cuidados, e nomeia expressamente os Assistentes Técnicos."
+    }
+  ],
+  "seccoes": [
+    {
+      "titulo": "Resposta",
+      "texto": "**Sim.** A Norma n.º 006/2026 (atualizada a 08/10/2026) inclui na vacinação gratuita os **profissionais do SNS**, seja qual for a função, e dá como exemplos os Assistentes Técnicos (a carreira administrativa), os Assistentes Operacionais, os seguranças e o pessoal da limpeza e das cantinas. Para quem trabalha no SNS, **não é preciso prestar cuidados diretos**. Essa exigência aplica-se só aos profissionais do setor privado, social e da Defesa Nacional. A campanha decorre de 30/09/2026 a 31/03/2027. A vacinação faz-se nas unidades de saúde do SNS (por exemplo, na saúde ocupacional)."
+    },
+    {
+      "titulo": "Onde está escrito",
+      "tabela": {
+        "colunas": ["Norma", "Versão", "Página", "Citação"],
+        "linhas": [
+          ["Norma n.º 006/2026", "atualizada a 08/10/2026 (em vigor)", "3", "«Profissionais do SNS, incluindo profissionais contratados por outras entidades, mas que trabalhem nas instituições do SNS (Assistentes Operacionais, Assistentes Técnicos, Seguranças, …»"],
+          ["Norma n.º 006/2026", "atualizada a 08/10/2026 (em vigor)", "3", "«Profissionais na prestação direta de cuidados que exerçam funções em estabelecimentos do setor privado, social e da Defesa Nacional» (a exigência de cuidados diretos é só para estes)"],
+          ["Norma n.º 006/2026", "atualizada a 08/10/2026 (em vigor)", "5", "Quadro 1, «Critério: Contextos ocupacionais»: vacina trivalente inativada de dose padrão, «1 dose»"],
+          ["Norma n.º 006/2026", "atualizada a 08/10/2026 (em vigor)", "2", "«A vacinação contra a gripe sazonal decorre entre 30 de setembro de 2026 e 31 de março de» 2027"],
+          ["Norma n.º 006/2026", "atualizada a 08/10/2026 (em vigor)", "9", "«Em unidades de saúde do SNS (cuidados de saúde primários e/ou cuidados de saúde hospitalares)»"]
+        ]
+      }
+    },
+    {
+      "titulo": "O que mudou",
+      "texto": "A versão original de 17/09/2026 (revogada) já incluía os profissionais do SNS nos mesmos termos. A atualização de 08/10/2026 acrescentou a «Defesa Nacional» ao ponto dos profissionais com cuidados diretos fora do SNS. Para quem trabalha no SNS, a resposta não muda."
+    },
+    {
+      "titulo": "O que as normas não dizem",
+      "lista": [
+        "Como se marca a vacina na ULS (horários, local, contacto): isso é organização interna. Pergunte à saúde ocupacional.",
+        "Se pode ser vacinada no seu caso concreto (alergias, reações anteriores, doença no momento): é o profissional que vacina quem avalia.",
+        "Se o seu contrato for com uma empresa externa, a norma inclui na mesma «profissionais contratados por outras entidades» que trabalhem no SNS. A confirmação do vínculo é feita pela saúde ocupacional."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Norma n.º 006/2026 de 17/09/2026, atualizada a 08/10/2026 — Campanha de vacinação sazonal contra a Gripe 2026-2027 (em vigor)",
+      "url": "https://www.dgs.pt/normas-orientacoes-e-informacoes/normas-e-circulares-normativas/norma-n-0062026-de-17092026-atualizada-a-08102026-campanha-de-vacinacao-sazonal-contra-a-gripe-outono-inverno-2026-2027-pdf.aspx"
+    },
+    {
+      "nome": "Norma n.º 006/2026 de 17/09/2026, versão original (revogada; só para «O que mudou»)",
+      "url": "https://www.dgs.pt/normas-orientacoes-e-informacoes/normas-e-circulares-normativas/norma-n-0062026-de-17092026-campanha-de-vacinacao-sazonal-contra-a-gripe-outono-inverno-2026-2027-pdf.aspx"
+    }
+  ]
+}

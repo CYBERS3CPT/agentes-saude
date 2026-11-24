@@ -1,0 +1,514 @@
+=== página 1 ===
+                                                                                             Digitally signed by Rita Sá
+
+                                                                                Rita Sá      Machado
+                                                                                             DN: c=PT, title=Diretora-Geral da
+                                                                                             Saúde, ou=Direção, o=Direção-
+
+
+                                                                                Machado
+                                                                                             Geral da Saúde, sn=Sá Machado
+                                                                                             Duarte, givenName=Rita Manuel,
+                                                                                             cn=Rita Sá Machado
+                                                                                             Date: 2026.09.02 14:06:15 +01'00'
+
+
+
+
+     NORMA
+
+Número: 004/2026
+
+Data: 02/09/2026
+
+Assunto: Imunização Sazonal contra o Vírus Sincicial Respiratório em Idade Pediátrica: Outono-
+Inverno 2026-2027
+
+Palavras-Chave: Vírus Sincicial Respiratório; imunização; anticorpo monoclonal; nirsevimab
+
+Para: Sistema de Saúde
+
+Contatos: vacinas@dgs.min-saude.pt
+
+Nos termos da alínea a) do n.º 2 do art.º 2.º do Decreto Regulamentar n.º 14/2012, de 26 de janeiro,
+e no art.º 5º da Portaria n.º 114/2024/1, de 22 de março, a Direção-Geral da Saúde emite a seguinte
+Norma:
+
+ESTRATÉGIA DE IMUNIZAÇÃO
+1.    A imunização sazonal contra o vírus sincicial respiratório (VSR) é recomendada, voluntária e
+      gratuita para os grupos referidos no Quadro 1, tendo em conta o risco acrescido de desenvolver
+      doença grave. No ano de 2026, procedeu-se ao alargamento universal da estratégia de
+      imunização, com a inoculação de todas as crianças saudáveis a entrar na sua primeira época
+      sazonal de infeção por VSR (nascidas a partir de 1 de abril de 2026).
+
+Finalidades
+2.    A imunização sazonal contra o VSR tem como finalidades:
+
+      a.   Diminuir o risco de doença grave e hospitalização decorrente da infeção por VSR em idade
+           pediátrica, nomeadamente das crianças que apresentam risco acrescido de doença grave
+           e complicações;
+
+      b.   Diminuir a necessidade e pressão sobre os serviços de saúde, contribuindo para a sua
+           resiliência.
+
+
+Período de imunização
+3.    A imunização sazonal contra VSR decorre entre 16 de setembro de 2026 e 31 de março de
+      2027, e deve ser administrada, de acordo com os critérios de elegibilidade:
+     a.    ao nascimento, para os nascidos entre 16 de setembro de 2026 e 31 de março de 2027
+           (Grupo A do Quadro 1);
+     b.    a partir de 16 de setembro de 2026 e até 30 de outubro de 2026 (campanha de
+           repescagem), para:
+
+NORMA N.º 004/2026 de 02/09/2026
+                                                                                                      1/10
+
+DIREÇÃO-GERAL DA SAÚDE
+
+Alameda D. Afonso Henriques, 45   Tel.: +351 21 843 05 00
+1049-005 Lisboa                   Email: geral@dgs.min-saude.pt                        WWW.DGS.PT
+=== página 2 ===
+               i.   as crianças pertencentes aos Grupos B e C do Quadro 1;
+             ii. as crianças pertencentes ao Grupo A nascidos entre 1 de abril e 15 de setembro de
+            2026.
+
+
+Grupos-alvo elegíveis para imunização
+4.   São elegíveis para imunização contra o VSR, na presente campanha de imunização sazonal, as
+     crianças contempladas no Quadro 1.
+
+Quadro 1 – Grupos-alvo para os quais se recomenda a imunização sazonal contra o VSR em idade pediátrica
+no outono-inverno 2026-2027
+                                  Imunização sazonal contra o VSR em idade pediátrica
+
+ GRUPO A. Todas as crianças nascidas entre 1 de abril de 2026 e 31 de março de 2027.
+
+ GRUPO B. Todas as crianças pré-termo com idade gestacional até 33 semanas + 6 dias, nascidas entre 1 de
+ janeiro e 31 de março de 2026, se não tiverem sido previamente imunizadas.
+
+ GRUPO C. Todas as crianças               i. cardiopatia hemodinamicamente significativa, cianótica ou acianótica
+ com outros fatores de risco            (Anexo I, Quadro 3);
+ acrescido para infeção grave
+                                          ii. hipertensão pulmonar moderada ou grave (Anexo I, Quadro 3);
+ por VSR a entrar na sua
+ segunda época sazonal de                 iii. displasia broncopulmonar moderada ou grave (Anexo I, Quadro 4);
+ infeção por VSR, que ainda
+ não tenham completado 24                 iv. doença pulmonar crónica de qualquer etiologia, com necessidade de
+ meses de idade até ao dia 30           tratamento contínuo (oxigenoterapia, diuréticos ou corticoides) nos 6
+ de setembro de 2026.                   meses que antecedem a época do VSR. Excluem-se as crianças com
+                                        sibilância recorrente ou asma sob corticoides inalados na ausência de
+                                        outros critérios de risco;
+                                          v. doença neuromuscular com compromisso respiratório;
+                                         vi. sequelas de hérnia diafragmática congénita grave (i.e., com
+                                        necessidade de utilização de prótese ou de oxigenação por membrana
+                                        extracorpórea – ECMO);
+                                          vii. imunodeficiência combinada grave, infeção por VIH com
+                                        imunossupressão grave ou imunodeficiência grave devida a tratamento
+                                        imunossupressor, doenças hematooncológicas;
+                                         viii. anomalias cromossómicas e doenças hereditárias do metabolismo
+                                        com compromisso imunitário ou problemas respiratórios significativos;
+                                          ix. fibrose quística.
+
+
+5.   A infeção prévia por VSR não constitui critério para determinar a elegibilidade para imunização
+     contra o VSR. A ocorrência de doença por VSR na época em curso não altera a indicação de
+     imunização, uma vez que a reinfeção é possível e a proteção conferida pela infeção natural é
+     incompleta e de curta duração. Assim, lactentes com infeção recente por VSR mantêm
+     elegibilidade para imunização, desde que cumpram os restantes critérios definidos na presente
+     Norma.
+
+NORMA N.º 004/2026 de 02/09/2026
+                                                                                                                 2/10
+
+DIREÇÃO-GERAL DA SAÚDE
+
+Alameda D. Afonso Henriques, 45         Tel.: +351 21 843 05 00
+1049-005 Lisboa                         Email: geral@dgs.min-saude.pt                                WWW.DGS.PT
+=== página 3 ===
+Locais de imunização
+6.   A imunização contra o VSR ocorre:
+     a.   na maternidade (setor público, privado e social)1, para as crianças pertencentes ao Grupo
+          A do Quadro 1, nascidas a partir de 16 de setembro de 2026, ou nos dias imediatamente
+          anteriores e que ainda se encontrem internadas. A administração deve ser feita ao
+          nascimento, preferencialmente nas primeiras 24 a 48 horas de vida, ou na primeira
+          oportunidade, nas crianças com contraindicação para administração neste período, pela
+          sua condição clínica instável, definida pelo médico assistente;
+     b.   nos cuidados de saúde primários (CSP), para as crianças incluídas no Grupo A do Quadro
+          1, nascidas entre 1 de abril e 15 de setembro de 2026;
+     c.   nos CSP ou em meio hospitalar, para as crianças que fazem parte dos Grupos B ou C do
+          Quadro 1. Se a administração ocorrer nos CSP, o médico especialista que acompanha a
+          criança elegível para a imunização deve emitir uma Prescrição Eletrónica Médica (PEM),
+          que deverá ser impressa, entregue em papel e conter a informação especificada no Anexo
+          II.
+7.   A imunização a realizar-se nos CSP ou em meio hospitalar (ponto 6., alíneas b. e c.) deve
+     decorrer entre 16 de setembro e 30 de outubro de 2026 (campanha de repescagem), podendo
+     ser utilizados os momentos de contacto com estas unidades de saúde, por exemplo, para
+     consultas ou para vacinação, ou através da convocatória ativa das crianças. Caso a imunização
+     não ocorra neste período, deve ser realizada na primeira oportunidade subsequente.
+
+8.   Para as crianças elegíveis, em todos os momentos de contacto com unidades de saúde deverá
+     ser confirmada a administração prévia de anticorpo monoclonal.
+
+9.   A imunização gratuita ocorre em pontos de vacinação previamente autorizados, nos termos da
+     Portaria n.º 114/2024/1, de 22 de março2.
+
+10. Os pontos de vacinação devem cumprir todos os requisitos, nos termos do artigo 14º da Portaria
+    n.º 114/2024/1, de 22 de março.
+
+11. Os pontos de vacinação devem garantir um sistema logístico de armazenamento e de rotação
+    de stocks que otimize a gestão das doses de anticorpo monoclonal disponíveis, assegurando a
+    utilização prioritária dos lotes com validade mais curta, em conformidade com o princípio
+    FEFO – “First Expired, First Out”, de modo a preservar a qualidade e segurança dos produtos
+    imunobiológicos, minimizar o desperdício e apoiar a execução adequada da estratégia de
+    imunização definida na presente Norma.
+
+
+
+
+1
+  Para as maternidades do setor privado e social que cumprem com o estipulado na Portaria n.º 114/2024/1, de 22 de março,
+deve ser disponibilizado o anticorpo pela ULS territorialmente competente. Deve ser assegurado o registo obrigatório de
+todas as administrações efetuadas, independentemente do local onde ocorre a imunização da criança.
+2
+  Portaria n.º 114/2024/1, de 22 de março
+ NORMA N.º 004/2026 de 02/09/2026
+                                                                                                                    3/10
+
+DIREÇÃO-GERAL DA SAÚDE
+
+Alameda D. Afonso Henriques, 45     Tel.: +351 21 843 05 00
+1049-005 Lisboa                     Email: geral@dgs.min-saude.pt                                        WWW.DGS.PT
+=== página 4 ===
+Imunização disponível na campanha sazonal outono-inverno 2026-2027
+12. Na época sazonal 2026-2027 está disponível o anticorpo monoclonal nirsevimab 3.
+13. A informação sobre as características do anticorpo monoclonal nirsevimab, nomeadamente as
+    suas contraindicações ou precauções especiais à sua administração, reações adversas e
+    condições de armazenamento podem ser consultadas no Livro Azul de Vacinas, no capítulo
+    dedicado à infeção por vírus sincicial respiratório.
+
+
+Esquema de imunização e modo de administração 3
+14. O resumo da informação referente ao esquema de imunização e modo de administração do
+    anticorpo monoclonal nirsevimab consta do Quadro 2.
+Quadro 2 – Esquema de imunização e via de administração do anticorpo monoclonal nirsevimab3
+    Indicação                           Dose
+    Peso corporal <5 Kg*                50 mg, dose única, administrada por via intramuscular
+    Peso corporal ≥5 Kg                 100 mg, dose única, administrada por via intramuscular
+    Crianças do Grupo C (a entrar na    200 mg, dose única, administrada em duas injeções intramusculares
+    sua segunda época sazonal)          (2 x 100 mg)
+*Notas:
+1 - A utilização em crianças com <1 Kg deve ser excecional, ponderando cuidadosamente os benefícios e riscos da sua
+utilização. Prevê-se que a exposição em lactentes com <1 Kg produza exposições mais elevadas do que naqueles que
+pesam mais.
+2 – Não existe indicação para administração de uma terceira dose de Nirsevimab.
+
+
+15. Em lactentes submetidos a cirurgia cardíaca com bypass cardiopulmonar, pode ser
+    administrada uma dose adicional logo que se verifique estabilização do lactente após cirurgia,
+    para garantir níveis séricos adequados de anticorpo.
+        a. Se decorrerem até 90 dias após receberem a primeira dose, a dose adicional deve ser
+           de 50 mg ou 100 mg de acordo com o peso corporal no momento da administração
+           desta dose, ou de 200 mg durante a sua segunda época do VSR.
+           b.   Se decorrerem mais de 90 dias desde a primeira dose, a dose adicional pode ser uma
+                dose única de 50 mg, independentemente do peso corporal, durante a sua primeira
+                época do VSR, ou 100 mg durante a sua segunda época do VSR, para cobrir a época
+                do VSR remanescente.
+16. Caso a grávida progenitora tenha sido vacinada contra o VSR, não será necessário, na maioria
+    dos casos, administrar o anticorpo monoclonal ao recém-nascido/lactente.
+      a.   Se a grávida foi vacinada com um intervalo mínimo de 14 dias antes do nascimento, a
+           criança estará protegida contra a doença do trato respiratório inferior causada por VSR e,
+           nestas circunstâncias, não está indicada a administração do anticorpo ao recém-nascido.
+
+
+
+3
+  A informação constante nesta Norma não substitui a consulta do Resumo das Características do Medicamento (RCM) do
+anticorpo monoclonal nirsevimab, Beyfortus® (disponível em https://www.ema.europa.eu/pt/documents/product-
+information/beyfortus-epar-product-information_pt.pdf)
+ NORMA N.º 004/2026 de 02/09/2026
+                                                                                                              4/10
+
+DIREÇÃO-GERAL DA SAÚDE
+
+Alameda D. Afonso Henriques, 45    Tel.: +351 21 843 05 00
+1049-005 Lisboa                    Email: geral@dgs.min-saude.pt                                    WWW.DGS.PT
+=== página 5 ===
+    b.    Embora a evidência científica sobre a administração do anticorpo monoclonal em crianças
+          após vacinação materna seja limitada, a sua administração:
+
+                i. deve ser considerada em crianças nascidas menos de 14 dias após a vacinação
+                   materna, em que não terá decorrido o tempo necessário para o desenvolvimento e
+                   transferência transplacentária de anticorpos maternos em quantidade suficiente
+                   para conferir proteção ao recém-nascido/lactente;
+
+                ii. pode ser considerada nas circunstâncias em que é admissível um benefício
+                    adicional com a sua administração. Estas situações devem ser consideradas de
+                    acordo com indicação médica e incluem, entre outras:
+
+                         •    mães que podem não ter desenvolvido uma resposta imunitária adequada
+                              à vacinação (ex.: grávidas imunocomprometidas) ou que têm condições
+                              associadas à transferência reduzida de anticorpos transplacentários (ex.:
+                              grávidas com infeção por VIH);
+
+                         •    crianças que podem ter sofrido perda de anticorpos maternos (ex.: se
+                              submetidos a circulação extracorpórea, oxigenação por membrana
+                              extracorpórea ou exsanguíneotransfusão);
+
+                         •    crianças dos Grupos B e C do Quadro 1, que completam mais de 6 meses
+                              durante a época sazonal (até 31 de março de 2027). Atendendo a que vacina
+                              materna confere proteção passiva contra a doença do trato respiratório
+                              inferior causada por VSR desde o nascimento até aos 6 meses de idade 4,
+                              nestes casos, a imunização deve ocorrer na primeira oportunidade após
+                              completarem 6 meses de idade;
+
+                iii. a administração do anticorpo monoclonal, nos termos da presente alínea, deve ser
+                     prescrita através da PEM, conforme Anexo II.
+17. Não deverá ser realizado qualquer manuseamento off-label do anticorpo monoclonal contra o
+    VSR, nomeadamente fracionamento ou reutilização parcial das seringas pré-cheias de
+    nirsevimab, por não estar previsto na respetiva autorização de introdução no mercado (AIM) e
+    por poder comprometer a qualidade, eficácia e segurança do medicamento.
+
+
+Duração da proteção
+18. Com base nos dados clínicos e farmacocinéticos, a duração da proteção conferida por
+    nirsevimab é de, pelo menos, 5 a 6 meses3.
+
+
+
+
+4
+ Resumo das Características do Medicamento, Abrysvo® (disponível em
+https://www.ema.europa.eu/pt/documents/product-information/abrysvo-epar-product-information_pt.pdf)
+NORMA N.º 004/2026 de 02/09/2026
+                                                                                                       5/10
+
+DIREÇÃO-GERAL DA SAÚDE
+
+Alameda D. Afonso Henriques, 45     Tel.: +351 21 843 05 00
+1049-005 Lisboa                     Email: geral@dgs.min-saude.pt                               WWW.DGS.PT
+=== página 6 ===
+Compatibilidade3
+19. Considerando que nirsevimab é um anticorpo monoclonal (imunização passiva), não se espera
+    que interfira na resposta imunitária ativa a vacinas administradas concomitantemente. Pode ser
+    administrado concomitantemente com as vacinas pediátricas de rotina.
+20. Não deve ser misturado com qualquer vacina na mesma seringa ou frasco para injetáveis.
+    Quando administrado concomitantemente com vacinas injetáveis, devem ser administrados
+    com seringas separadas e em locais de injeção diferentes.
+
+
+Registo e Sistema de Informação – VACINAS
+21. A administração do anticorpo monoclonal, independentemente do local de administração,
+    deve ser obrigatoriamente registada na Plataforma Nacional de Registo e Gestão da Vacinação
+    – VACINAS, com o código “IgVSR”, devendo também ser registados os critérios de
+    elegibilidade nos termos da presente Norma.
+22. Todos os atos de imunização devem ser registados durante a sessão de administração dos
+    mesmos ou até 24 horas após, na indisponibilidade do sistema.
+        a. Nas situações de indisponibilidade de utilização da Plataforma VACINAS,
+             nomeadamente naquelas em que ainda não foi possível a atribuição do Número
+             Nacional de Utente (NNU) ao recém-nascido, a informação referente à imunização
+             (critério de elegibilidade atribuído nos termos da presente Norma, data de
+             administração, dose, lote e local anatómico de administração) deve ser registada no
+             Boletim Individual de Saúde e no Boletim de Saúde Infantil e Juvenil. A transcrição
+             desta informação para a Plataforma VACINAS deve ser realizada assim que possível,
+             devendo ser indicada a Unidade Local de Saúde (ULS) onde ocorreu a administração
+             do anticorpo.
+          b.   As transcrições mencionadas na alínea anterior e referentes a administrações ocorridas
+               em maternidades do setor privado ou social devem conter o campo “Contexto de
+               administração” preenchido como “Estrutura de Saúde (Não SNS)”.
+
+
+MONITORIZAÇÃO PÓS-IMUNIZAÇÃO E VIGILÂNCIA
+
+
+Monitorização
+23. A monitorização do número de doses administradas e da cobertura dos elegíveis é da
+    responsabilidade da DGS e é realizada com base na Plataforma VACINAS, com a colaboração
+    dos Serviços Operativos de Saúde Pública de âmbito regional e das ULS.
+24. A monitorização da segurança é realizada através do Sistema Nacional de Farmacovigilância,
+    cuja gestão e responsabilidade é da competência do INFARMED, I.P.
+        a. Os médicos, os enfermeiros e os farmacêuticos devem estar atentos a eventuais
+            reações adversas e consultar o Resumo das Caraterísticas do Medicamento, disponível
+            na base de dados de Medicamentos de Uso Humano – INFOMED.
+
+NORMA N.º 004/2026 de 02/09/2026
+                                                                                                6/10
+
+DIREÇÃO-GERAL DA SAÚDE
+
+Alameda D. Afonso Henriques, 45   Tel.: +351 21 843 05 00
+1049-005 Lisboa                   Email: geral@dgs.min-saude.pt                         WWW.DGS.PT
+=== página 7 ===
+          b.   Todas as suspeitas de reações adversas devem ser comunicadas ao INFARMED, I.P.,
+               pelos profissionais de saúde5, no Portal de Notificação de Reações Adversas - Portal
+               RAM6.
+          c.   De modo a melhorar a rastreabilidade dos medicamentos biológicos, o nome e o
+               número de lote do medicamento administrado devem ser registados de forma clara
+               sempre que se comunicam suspeitas de reações adversas.
+          d. As reações adversas mais frequentes podem ser consultadas no Livro Azul de Vacinas,
+             capítulo específico do Vírus Sincicial Respiratório (quadro alusivo às características do
+             anticorpo monoclonal humano) e nos RCM dos produtos biológicos a administrar.
+
+
+Vigilância após imunização
+25. Após a imunização, a criança deve permanecer em vigilância no local da imunização durante
+    um mínimo de 30 minutos.
+26. O cuidador da criança que recebeu a imunização deve ser informado relativamente a possíveis
+    reações adversas.
+27. Não existe tratamento específico para uma sobredosagem com nirsevimab. No caso de
+    sobredosagem, a criança deve ser monitorizada quanto à ocorrência de reações adversas e
+    receber tratamento sintomático apropriado.
+
+
+Deve ser consultado o Livro Azul de Vacinas para informação adicional, nomeadamente o capítulo
+específico da infeção por Vírus Sincicial Respiratório.
+Deve constar do processo clínico a decisão fundamentada da eventual não aplicação da presente
+Norma.
+A presente Norma revoga a Norma n.º 008/2025, de 11/08/2025, atualizada a 04/09/2025 -
+Imunização Sazonal contra o Vírus Sincicial Respiratório em Idade Pediátrica: Outono-Inverno 2025-
+2026 e será atualizada sempre que a evolução da evidência científica assim o justifique.
+Ficam sem efeito os conteúdos de normas, orientações, circulares, ofícios e informações anteriores
+que contrariem o disposto nesta Norma.
+
+                                          Rita Sá
+                                                             Digitally signed by Rita Sá Machado
+                                                             DN: c=PT, title=Diretora-Geral da
+                                                             Saúde, ou=Direção, o=Direção-
+                                                             Geral da Saúde, sn=Sá Machado
+
+                                          Machado            Duarte, givenName=Rita Manuel,
+                                                             cn=Rita Sá Machado
+                                                             Date: 2026.09.02 14:05:59 +01'00'
+
+
+                                                  Rita Sá Machado
+                                             Diretora-Geral da Saúde
+
+
+
+5
+  A notificação de suspeitas de reações adversas após a autorização do medicamento é importante, uma vez que permite
+uma monitorização contínua da relação benefício-risco do medicamento.
+6
+   Em alternativa, podem ser utilizados os seguintes contactos: INFARMED, I.P. – Direção de Gestão do Risco de
+Medicamentos: +351 21 798 73 73 e/ou farmacovigilancia@infarmed.pt; Linha do Medicamento (gratuita): 800 222 444.
+ NORMA N.º 004/2026 de 02/09/2026
+                                                                                                                  7/10
+
+DIREÇÃO-GERAL DA SAÚDE
+
+Alameda D. Afonso Henriques, 45     Tel.: +351 21 843 05 00
+1049-005 Lisboa                     Email: geral@dgs.min-saude.pt                                      WWW.DGS.PT
+=== página 8 ===
+ANEXO I
+Quadro 3 – Indicações para nirsevimab nas cardiopatias.
+ Com indicação para nirsevimab                              Sem indicação para nirsevimab
+ Insuficiência cardíaca sob tratamento                      Cardiopatias hemodinamicamente não significativas:
+ farmacológico
+                                                              i)     comunicação interauricular;
+                                                              ii)    comunicação interventricular sem necessidade de
+ Hipertensão pulmonar moderada ou grave                              tratamento farmacológico;
+                                                              iii)   estenose pulmonar ligeira;
+ Cardiopatia cianótica
+                                                              iv) estenose aórtica ligeira;
+ Arritmias com compromisso hemodinâmico
+                                                              v)     coartação da aorta sem significado hemodinâmico;
+                                                              vi) persistência do canal arterial sem clínica de
+                                                                  insuficiência cardíaca.
+                                                            Cardiopatia sem necessidade de tratamento
+                                                            farmacológico.
+ Cardiopatias que mantêm necessidade de                     Cardiopatia sem necessidade de tratamento
+ tratamento farmacológico após intervenção                  farmacológico após correção cirúrgica.
+ cirúrgica
+Fonte: Adaptação de American Academy of Pediatrics. Comitee on Infectious Diseases. Policy statements – Modified
+recommendations for use of palivizumab for prevention of respiratory syncytial virus infections. Pediatrics. 2009 Dec; 124(&):1694-
+701.
+
+Quadro 4 – Classificação da gravidade da displasia broncopulmonar (DBP).
+ DBP grave            RNPT <32 semanas ao nascimento: necessidade de O2 suplementar >28 dias, e FiO2 >0,3
+                      e/ou CPAP nasal ou VM às 36 semanas de IPM ou à data de alta, o que ocorrer antes.
+                      RNPT >32 semanas ao nascimento: necessidade de FiO2 >0,3 aos 56 dias de IPM ou à alta,
+                      o que ocorrer antes.
+ DBP                  RNPT <32 semanas ao nascimento: necessidade de O2 suplementar >28 dias, e FiO2 <0,3
+ moderada             às 36 semanas e IPM ou à data de alta, o que ocorrer antes.
+                      RNPT >32 semanas ao nascimento: necessidade de FiO2 <0,3 aos 56 dias de idade pós-
+                      natal ou à data de alta, o que ocorrer antes.
+ DBP ligeira          RNPT <32 semanas ao nascimento: necessidade de O2 suplementar >28 dias, mas em ar
+                      ambiente às 36 semanas de IPM ou à data de alta, o que ocorrer antes.
+                      RNPT >32 semanas ao nascimento: necessidade de O2 suplementar aos 56 dias de idade
+                      pós-natal ou à data de alta, o que ocorrer antes.
+Legenda: CPAP – Pressão Positiva Contínua na Via Aérea; IPM – Idade pós-menstrual; RNPT – Recém-nascido pré-termo;
+VM – Ventilação mecânica.
+Fonte: Sola A, Fariña D, Ramin M, Golombek S e Membros do Consenso Clínico da Sociedade Ibero-Americana de
+Neonatologia (SIBEN) Recomendaciones del VIII Consenso Clínico de SIBEN para la Displasia Broncopulmonar. NeoReviews
+2018; 19(11): e712-e734.
+
+
+
+
+NORMA N.º 004/2026 de 02/09/2026
+                                                                                                                             8/10
+
+DIREÇÃO-GERAL DA SAÚDE
+
+Alameda D. Afonso Henriques, 45        Tel.: +351 21 843 05 00
+1049-005 Lisboa                        Email: geral@dgs.min-saude.pt                                              WWW.DGS.PT
+=== página 9 ===
+ANEXO II
+
+Para as crianças que integram o Grupo C do Quadro 1, e a alínea c) do ponto 6. da presente Norma,
+se a administração ocorrer nos CSP, o médico especialista que acompanha a criança elegível para
+a imunização deve emitir uma prescrição médica, através da PEM, indicando a dose do
+medicamento e o critério para elegibilidade conforme exemplificado abaixo. A prescrição deverá
+ser impressa e entregue em papel.
+
+Na plataforma PEM, selecionar “Pesquisar Medicamentos”, seguido de “Outros Produtos” e “Texto
+Livre”.
+
+
+
+
+Preencher obrigatoriamente os seguintes campos:
+
+    a.    Nome do Produto: “nirsevimab”;
+    b.    Quantidade: “50 miligrama”, “100 miligrama” ou “200 miligrama”.
+    c.    Instruções: indicar a alínea correspondente ao critério de elegibilidade do Grupo C (Quadro
+          1), identificando, expressamente, a patologia da criança ou a alínea c) do ponto 6. da
+          presente Norma.
+A prescrição deverá ser impressa e entregue ao acompanhante da criança.
+
+
+
+
+NORMA N.º 004/2026 de 02/09/2026
+                                                                                                9/10
+
+DIREÇÃO-GERAL DA SAÚDE
+
+Alameda D. Afonso Henriques, 45   Tel.: +351 21 843 05 00
+1049-005 Lisboa                   Email: geral@dgs.min-saude.pt                         WWW.DGS.PT
+=== página 10 ===
+APOIO CIENTÍFICO
+A. A presente Norma foi elaborada no âmbito da Unidade de Vacinas, Imunização e Produtos
+   Biológicos, da Direção de Serviços de Prevenção da Doença e Promoção da Saúde, tendo por
+   base o parecer da Comissão Técnica de Vacinação.
+B. Os peritos envolvidos na atualização da presente Norma cumpriram o determinado pelo
+   Decreto-Lei n.º 14/2014 de 22 de janeiro, no que se refere à declaração de inexistência de
+   incompatibilidades.
+
+C. A presente Norma foi submetida à auscultação da Comissão Técnica de Vacinação, Direção
+     Executiva do SNS, I.P., Instituto Nacional de Saúde Doutor Ricardo Jorge (INSA), Autoridade
+     Nacional do Medicamento e Produtos de Saúde, I. P. (INFARMED, I.P.), Serviços Partilhados do
+     Ministério da Saúde, E.P.E. (SPMS), Serviço de Utilização Comum dos Hospitais (SUCH),
+     Coordenadores Regionais de Vacinação, Autoridades de Saúde de âmbito Regional.
+
+
+
+
+NORMA N.º 004/2026 de 02/09/2026
+                                                                                            10/10
+
+DIREÇÃO-GERAL DA SAÚDE
+
+Alameda D. Afonso Henriques, 45   Tel.: +351 21 843 05 00
+1049-005 Lisboa                   Email: geral@dgs.min-saude.pt                      WWW.DGS.PT
+
